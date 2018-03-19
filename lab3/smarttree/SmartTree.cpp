@@ -1,4 +1,3 @@
-#include <c++/iostream>
 #include "SmartTree.h"
 
 namespace datastructures {
@@ -74,8 +73,6 @@ namespace datastructures {
         }
         const string left = rest.substr(0, leftEndId);
         const string right = rest.substr(leftEndId + 1);
-
-//        std::cout << "'" << result[1] << "' '" << left << "' '" << right << "'" << std::endl;
 
         root->left = RestoreTree(left);
         root->right = RestoreTree(right);
