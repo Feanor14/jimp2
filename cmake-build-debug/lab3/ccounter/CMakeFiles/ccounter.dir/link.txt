@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ccounter.dir/CCounter.cpp.o CMakeFiles/ccounter.dir/main.cpp.o  -o ccounter liblibccounter.a 

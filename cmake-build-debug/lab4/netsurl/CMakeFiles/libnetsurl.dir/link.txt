@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibnetsurl.a  CMakeFiles/libnetsurl.dir/netsurl.cpp.o
+/usr/bin/ranlib liblibnetsurl.a

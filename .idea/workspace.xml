@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="jimp_exercises" targetName="lab10_schedule_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_micro_dvd_correct_cases_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_smart_tree_step4_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_student_repository_query_by_first_name_tests" />
+      <config projectName="jimp_exercises" targetName="lab12_sequential_generator_tests" />
+      <config projectName="jimp_exercises" targetName="lab13_roman_to_arabic_tests" />
+      <config projectName="jimp_exercises" targetName="gtest" />
+      <config projectName="jimp_exercises" targetName="lab12_tree_inorder_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_simple_json_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_greatest_product_step3_tests" />
+      <config projectName="jimp_exercises" targetName="gmock" />
+      <config projectName="jimp_exercises" targetName="lab2_array_2d_step3_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_simple_forward_list_step3_tests" />
+      <config projectName="jimp_exercises" targetName="lab6_student_repository_student_tests" />
+      <config projectName="jimp_exercises" targetName="gmock_main" />
+      <config projectName="jimp_exercises" targetName="tinyurl" />
+      <config projectName="jimp_exercises" targetName="lab10_algo_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_simple_template_engine_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_tiny_url_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_comparable_tests" />
+      <config projectName="jimp_exercises" targetName="lab10_scheduler_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_minimal_time_difference_tests" />
+      <config projectName="jimp_exercises" targetName="lab6_word_counter_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_array_fill_uniform_tests" />
+      <config projectName="jimp_exercises" targetName="lab10_algo_step4_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_array_fill_random_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_all_tests" />
+      <config projectName="jimp_exercises" targetName="stringutility" />
+      <config projectName="jimp_exercises" targetName="lab2_array_2d_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab9_xml_serializer_tests" />
+      <config projectName="jimp_exercises" targetName="libccounter" />
+      <config projectName="jimp_exercises" targetName="lab2_greatest_product_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_sub_rip_error_cases_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_name_tests" />
+      <config projectName="jimp_exercises" targetName="lab5_memory_chunk_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_student_repository_query_tests" />
+      <config projectName="jimp_exercises" targetName="lab1_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_simple_template_engine_injection_tests" />
+      <config projectName="jimp_exercises" targetName="netsurl" />
+      <config projectName="jimp_exercises" targetName="lab4_square_tests" />
+      <config projectName="jimp_exercises" targetName="lab10_algo_step5_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_greatest_product_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab9_json_serializer_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_smart_tree_step5_tests" />
+      <config projectName="jimp_exercises" targetName="libsmarttree" />
+      <config projectName="jimp_exercises" targetName="lab3_c_counter_tests" />
+      <config projectName="jimp_exercises" targetName="lab12_tree_tests" />
+      <config projectName="jimp_exercises" targetName="smarttree" />
+      <config projectName="jimp_exercises" targetName="lab12_tree_postorder_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_simple_forward_list_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab6_all_tests" />
+      <config projectName="jimp_exercises" targetName="example_examplelibrary_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_tiny_url_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab9_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_iterable_enumeration_tests" />
+      <config projectName="jimp_exercises" targetName="gtest_main" />
+      <config projectName="jimp_exercises" targetName="lab1_factorial_tests" />
+      <config projectName="jimp_exercises" targetName="lab12_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_array_fill_incremental_tests" />
+      <config projectName="jimp_exercises" targetName="lab6_student_repository_tests" />
+      <config projectName="jimp_exercises" targetName="libfactorial" />
+      <config projectName="jimp_exercises" targetName="lab6_student_repository_study_year_tests" />
+      <config projectName="jimp_exercises" targetName="lab13_arabic_to_roman_tests" />
+      <config projectName="jimp_exercises" targetName="ccounter" />
+      <config projectName="jimp_exercises" targetName="lab2_polybius_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab10_algo_step3_tests" />
+      <config projectName="jimp_exercises" targetName="lab12_tree_preorder_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_pesel_tests" />
+      <config projectName="jimp_exercises" targetName="lab1_reverse_string_tests" />
+      <config projectName="jimp_exercises" targetName="lab11_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab4_simple_url_tests" />
+      <config projectName="jimp_exercises" targetName="memleak" />
+      <config projectName="jimp_exercises" targetName="lab3_smart_tree_step3_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_array_2d_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_simple_forward_list_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_array_2d_step4_tests" />
+      <config projectName="jimp_exercises" targetName="libexamplelibrary" />
+      <config projectName="jimp_exercises" targetName="libnetsurl" />
+      <config projectName="jimp_exercises" targetName="lab1_palindrome_tests" />
+      <config projectName="jimp_exercises" targetName="lab5_matrix_tests" />
+      <config projectName="jimp_exercises" targetName="lab6_zipper_tests" />
+      <config projectName="jimp_exercises" targetName="lab10_algo_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_array_fill_squared_tests" />
+      <config projectName="jimp_exercises" targetName="lab9_base_serializer_tests" />
+      <config projectName="jimp_exercises" targetName="factorial" />
+      <config projectName="jimp_exercises" targetName="minimaltimedifference" />
+      <config projectName="jimp_exercises" targetName="lab12_teacher_hash_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_smart_tree_step2_tests" />
+      <config projectName="jimp_exercises" targetName="lab5_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_iterable_product_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_micro_dvd_error_cases_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_movie_subtitles_tests" />
+      <config projectName="jimp_exercises" targetName="libminimaltimedifference" />
+      <config projectName="jimp_exercises" targetName="lab7_iterable_zipper_tests" />
+      <config projectName="jimp_exercises" targetName="libtinyurl" />
+      <config projectName="jimp_exercises" targetName="lab10_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab5_text_pool_tests" />
+      <config projectName="jimp_exercises" targetName="lab7_iterable_tests" />
+      <config projectName="jimp_exercises" targetName="lab1_multiplication_table_tests" />
+      <config projectName="jimp_exercises" targetName="lab1_double_base_palindrome_tests" />
+      <config projectName="jimp_exercises" targetName="lab12_time_recorder_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_xor_cypher_breaker_tests" />
+      <config projectName="jimp_exercises" targetName="lab11_factory_method_tests" />
+      <config projectName="jimp_exercises" targetName="lab13_all_tests" />
+      <config projectName="jimp_exercises" targetName="lab3_smart_tree_step1_tests" />
+      <config projectName="jimp_exercises" targetName="lab8_sub_rip_correct_cases_tests" />
+      <config projectName="jimp_exercises" targetName="lab9_building_repository_tests" />
+      <config projectName="jimp_exercises" targetName="lab2_polybius_step2_tests" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e5a3981-9405-4bd8-a712-36d0afac7a5b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/netsurl/CMakeLists.txt" afterPath="$PROJECT_DIR$/lab4/netsurl/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/netsurl/main.cpp" afterPath="$PROJECT_DIR$/lab4/netsurl/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/netsurl/netsurl.cpp" afterPath="$PROJECT_DIR$/lab4/netsurl/netsurl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab4/netsurl/netsurl.h" afterPath="$PROJECT_DIR$/lab4/netsurl/netsurl.h" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TinyUrl.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/tinyurl/TinyUrl.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab3/tinyurl/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TinyUrl.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/tinyurl/TinyUrl.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="6" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="netsurl.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/netsurl/netsurl.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/netsurl/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="netsurl.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/netsurl/netsurl.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <marker date="1521534417971" expanded="true" signature="124:270" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/tinyurl/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4/netsurl/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab3/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab4/netsurl/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/lab4/netsurl/main.cpp" />
+        <option value="$PROJECT_DIR$/lab4/netsurl/netsurl.cpp" />
+        <option value="$PROJECT_DIR$/lab4/netsurl/netsurl.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="520" />
+    <option name="y" value="141" />
+    <option name="width" value="1400" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netsurl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinyurl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccounter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp_exercises" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jimp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab4/netsurl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab4/netsurl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libexamplelibrary" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libexamplelibrary" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jimp2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libexamplelibrary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libexamplelibrary" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="factorial" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="factorial">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libfactorial" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libfactorial" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ccounter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="ccounter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="ccounter">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libccounter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libccounter" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libminimaltimedifference" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libminimaltimedifference" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="minimaltimedifference" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="minimaltimedifference" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="minimaltimedifference">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libsmarttree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libsmarttree" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="smarttree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="smarttree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="smarttree">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libtinyurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libtinyurl" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tinyurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="tinyurl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="tinyurl">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="example_examplelibrary_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="example_examplelibrary_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="example_examplelibrary_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_algo_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_algo_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_algo_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_algo_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_algo_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_algo_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_algo_step3_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_algo_step3_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_algo_step3_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_algo_step4_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_algo_step4_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_algo_step4_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_algo_step5_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_algo_step5_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_algo_step5_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_schedule_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_schedule_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_schedule_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab10_scheduler_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab10_scheduler_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab10_scheduler_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab11_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab11_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab11_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab11_factory_method_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab11_factory_method_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab11_factory_method_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_sequential_generator_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_sequential_generator_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_sequential_generator_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_teacher_hash_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_teacher_hash_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_teacher_hash_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_time_recorder_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_time_recorder_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_time_recorder_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_tree_inorder_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_tree_inorder_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_tree_inorder_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_tree_postorder_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_tree_postorder_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_tree_postorder_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_tree_preorder_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_tree_preorder_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_tree_preorder_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab12_tree_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab12_tree_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab12_tree_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab13_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab13_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab13_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab13_arabic_to_roman_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab13_arabic_to_roman_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab13_arabic_to_roman_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab13_roman_to_arabic_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab13_roman_to_arabic_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab13_roman_to_arabic_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_double_base_palindrome_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_double_base_palindrome_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_double_base_palindrome_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_factorial_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_factorial_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_factorial_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_multiplication_table_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_multiplication_table_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_multiplication_table_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_palindrome_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_palindrome_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_palindrome_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab1_reverse_string_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab1_reverse_string_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab1_reverse_string_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_array_2d_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_array_2d_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_array_2d_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_array_2d_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_array_2d_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_array_2d_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_array_2d_step3_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_array_2d_step3_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_array_2d_step3_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_array_2d_step4_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_array_2d_step4_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_array_2d_step4_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_greatest_product_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_greatest_product_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_greatest_product_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_greatest_product_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_greatest_product_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_greatest_product_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_greatest_product_step3_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_greatest_product_step3_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_greatest_product_step3_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_polybius_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_polybius_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_polybius_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_polybius_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_polybius_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_polybius_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_simple_forward_list_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_simple_forward_list_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_simple_forward_list_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_simple_forward_list_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_simple_forward_list_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_simple_forward_list_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_simple_forward_list_step3_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_simple_forward_list_step3_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_simple_forward_list_step3_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab2_xor_cypher_breaker_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab2_xor_cypher_breaker_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab2_xor_cypher_breaker_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_c_counter_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_c_counter_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_c_counter_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_minimal_time_difference_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_minimal_time_difference_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_minimal_time_difference_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_smart_tree_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_smart_tree_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_smart_tree_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_smart_tree_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_smart_tree_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_smart_tree_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_smart_tree_step3_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_smart_tree_step3_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_smart_tree_step3_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_smart_tree_step4_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_smart_tree_step4_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_smart_tree_step4_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_smart_tree_step5_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_smart_tree_step5_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_smart_tree_step5_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_tiny_url_step1_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_tiny_url_step1_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_tiny_url_step1_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab3_tiny_url_step2_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab3_tiny_url_step2_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab3_tiny_url_step2_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_name_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_name_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_name_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_simple_json_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_simple_json_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_simple_json_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_simple_template_engine_injection_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_simple_template_engine_injection_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_simple_template_engine_injection_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_simple_template_engine_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_simple_template_engine_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_simple_template_engine_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_simple_url_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_simple_url_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_simple_url_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab4_square_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab4_square_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab4_square_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab5_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab5_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab5_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab5_matrix_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab5_matrix_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab5_matrix_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab5_memory_chunk_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab5_memory_chunk_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab5_memory_chunk_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab5_text_pool_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab5_text_pool_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab5_text_pool_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_student_repository_student_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_student_repository_student_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_student_repository_student_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_student_repository_study_year_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_student_repository_study_year_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_student_repository_study_year_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_student_repository_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_student_repository_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_student_repository_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_word_counter_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_word_counter_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_word_counter_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab6_zipper_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab6_zipper_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab6_zipper_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_array_fill_incremental_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_array_fill_incremental_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_array_fill_incremental_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_array_fill_random_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_array_fill_random_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_array_fill_random_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_array_fill_squared_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_array_fill_squared_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_array_fill_squared_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_array_fill_uniform_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_array_fill_uniform_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_array_fill_uniform_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_comparable_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_comparable_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_comparable_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_iterable_enumeration_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_iterable_enumeration_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_iterable_enumeration_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_iterable_product_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_iterable_product_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_iterable_product_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_iterable_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_iterable_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_iterable_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_iterable_zipper_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_iterable_zipper_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_iterable_zipper_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_student_repository_query_by_first_name_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_student_repository_query_by_first_name_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_student_repository_query_by_first_name_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab7_student_repository_query_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab7_student_repository_query_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab7_student_repository_query_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_micro_dvd_correct_cases_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_micro_dvd_correct_cases_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_micro_dvd_correct_cases_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_micro_dvd_error_cases_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_micro_dvd_error_cases_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_micro_dvd_error_cases_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_movie_subtitles_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_movie_subtitles_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_movie_subtitles_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_pesel_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_pesel_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_pesel_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_sub_rip_correct_cases_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_sub_rip_correct_cases_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_sub_rip_correct_cases_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab8_sub_rip_error_cases_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab8_sub_rip_error_cases_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab8_sub_rip_error_cases_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab9_all_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab9_all_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab9_all_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab9_base_serializer_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab9_base_serializer_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab9_base_serializer_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab9_building_repository_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab9_building_repository_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab9_building_repository_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab9_json_serializer_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab9_json_serializer_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab9_json_serializer_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lab9_xml_serializer_tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="lab9_xml_serializer_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="lab9_xml_serializer_tests" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="memleak" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="memleak" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="stringutility" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="stringutility" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libnetsurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="libnetsurl" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="netsurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jimp_exercises" TARGET_NAME="netsurl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jimp_exercises" RUN_TARGET_NAME="netsurl">
+      <envs />
+      <method />
+    </configuration>
+    <list size="113">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.libexamplelibrary" />
+      <item index="2" class="java.lang.String" itemvalue="Application.factorial" />
+      <item index="3" class="java.lang.String" itemvalue="Application.libfactorial" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ccounter" />
+      <item index="5" class="java.lang.String" itemvalue="Application.libccounter" />
+      <item index="6" class="java.lang.String" itemvalue="Application.libminimaltimedifference" />
+      <item index="7" class="java.lang.String" itemvalue="Application.minimaltimedifference" />
+      <item index="8" class="java.lang.String" itemvalue="Application.libsmarttree" />
+      <item index="9" class="java.lang.String" itemvalue="Application.smarttree" />
+      <item index="10" class="java.lang.String" itemvalue="Application.libtinyurl" />
+      <item index="11" class="java.lang.String" itemvalue="Application.tinyurl" />
+      <item index="12" class="java.lang.String" itemvalue="Google Test.example_examplelibrary_tests" />
+      <item index="13" class="java.lang.String" itemvalue="Google Test.lab10_algo_step1_tests" />
+      <item index="14" class="java.lang.String" itemvalue="Google Test.lab10_algo_step2_tests" />
+      <item index="15" class="java.lang.String" itemvalue="Google Test.lab10_algo_step3_tests" />
+      <item index="16" class="java.lang.String" itemvalue="Google Test.lab10_algo_step4_tests" />
+      <item index="17" class="java.lang.String" itemvalue="Google Test.lab10_algo_step5_tests" />
+      <item index="18" class="java.lang.String" itemvalue="Google Test.lab10_all_tests" />
+      <item index="19" class="java.lang.String" itemvalue="Google Test.lab10_schedule_tests" />
+      <item index="20" class="java.lang.String" itemvalue="Google Test.lab10_scheduler_tests" />
+      <item index="21" class="java.lang.String" itemvalue="Google Test.lab11_all_tests" />
+      <item index="22" class="java.lang.String" itemvalue="Google Test.lab11_factory_method_tests" />
+      <item index="23" class="java.lang.String" itemvalue="Google Test.lab12_all_tests" />
+      <item index="24" class="java.lang.String" itemvalue="Google Test.lab12_sequential_generator_tests" />
+      <item index="25" class="java.lang.String" itemvalue="Google Test.lab12_teacher_hash_tests" />
+      <item index="26" class="java.lang.String" itemvalue="Google Test.lab12_time_recorder_tests" />
+      <item index="27" class="java.lang.String" itemvalue="Google Test.lab12_tree_inorder_tests" />
+      <item index="28" class="java.lang.String" itemvalue="Google Test.lab12_tree_postorder_tests" />
+      <item index="29" class="java.lang.String" itemvalue="Google Test.lab12_tree_preorder_tests" />
+      <item index="30" class="java.lang.String" itemvalue="Google Test.lab12_tree_tests" />
+      <item index="31" class="java.lang.String" itemvalue="Google Test.lab13_all_tests" />
+      <item index="32" class="java.lang.String" itemvalue="Google Test.lab13_arabic_to_roman_tests" />
+      <item index="33" class="java.lang.String" itemvalue="Google Test.lab13_roman_to_arabic_tests" />
+      <item index="34" class="java.lang.String" itemvalue="Google Test.lab1_all_tests" />
+      <item index="35" class="java.lang.String" itemvalue="Google Test.lab1_double_base_palindrome_tests" />
+      <item index="36" class="java.lang.String" itemvalue="Google Test.lab1_factorial_tests" />
+      <item index="37" class="java.lang.String" itemvalue="Google Test.lab1_multiplication_table_tests" />
+      <item index="38" class="java.lang.String" itemvalue="Google Test.lab1_palindrome_tests" />
+      <item index="39" class="java.lang.String" itemvalue="Google Test.lab1_reverse_string_tests" />
+      <item index="40" class="java.lang.String" itemvalue="Google Test.lab2_all_tests" />
+      <item index="41" class="java.lang.String" itemvalue="Google Test.lab2_array_2d_step1_tests" />
+      <item index="42" class="java.lang.String" itemvalue="Google Test.lab2_array_2d_step2_tests" />
+      <item index="43" class="java.lang.String" itemvalue="Google Test.lab2_array_2d_step3_tests" />
+      <item index="44" class="java.lang.String" itemvalue="Google Test.lab2_array_2d_step4_tests" />
+      <item index="45" class="java.lang.String" itemvalue="Google Test.lab2_greatest_product_step1_tests" />
+      <item index="46" class="java.lang.String" itemvalue="Google Test.lab2_greatest_product_step2_tests" />
+      <item index="47" class="java.lang.String" itemvalue="Google Test.lab2_greatest_product_step3_tests" />
+      <item index="48" class="java.lang.String" itemvalue="Google Test.lab2_polybius_step1_tests" />
+      <item index="49" class="java.lang.String" itemvalue="Google Test.lab2_polybius_step2_tests" />
+      <item index="50" class="java.lang.String" itemvalue="Google Test.lab2_simple_forward_list_step1_tests" />
+      <item index="51" class="java.lang.String" itemvalue="Google Test.lab2_simple_forward_list_step2_tests" />
+      <item index="52" class="java.lang.String" itemvalue="Google Test.lab2_simple_forward_list_step3_tests" />
+      <item index="53" class="java.lang.String" itemvalue="Google Test.lab2_xor_cypher_breaker_tests" />
+      <item index="54" class="java.lang.String" itemvalue="Google Test.lab3_all_tests" />
+      <item index="55" class="java.lang.String" itemvalue="Google Test.lab3_c_counter_tests" />
+      <item index="56" class="java.lang.String" itemvalue="Google Test.lab3_minimal_time_difference_tests" />
+      <item index="57" class="java.lang.String" itemvalue="Google Test.lab3_smart_tree_step1_tests" />
+      <item index="58" class="java.lang.String" itemvalue="Google Test.lab3_smart_tree_step2_tests" />
+      <item index="59" class="java.lang.String" itemvalue="Google Test.lab3_smart_tree_step3_tests" />
+      <item index="60" class="java.lang.String" itemvalue="Google Test.lab3_smart_tree_step4_tests" />
+      <item index="61" class="java.lang.String" itemvalue="Google Test.lab3_smart_tree_step5_tests" />
+      <item index="62" class="java.lang.String" itemvalue="Google Test.lab3_tiny_url_step1_tests" />
+      <item index="63" class="java.lang.String" itemvalue="Google Test.lab3_tiny_url_step2_tests" />
+      <item index="64" class="java.lang.String" itemvalue="Google Test.lab4_all_tests" />
+      <item index="65" class="java.lang.String" itemvalue="Google Test.lab4_name_tests" />
+      <item index="66" class="java.lang.String" itemvalue="Google Test.lab4_simple_json_tests" />
+      <item index="67" class="java.lang.String" itemvalue="Google Test.lab4_simple_template_engine_injection_tests" />
+      <item index="68" class="java.lang.String" itemvalue="Google Test.lab4_simple_template_engine_tests" />
+      <item index="69" class="java.lang.String" itemvalue="Google Test.lab4_simple_url_tests" />
+      <item index="70" class="java.lang.String" itemvalue="Google Test.lab4_square_tests" />
+      <item index="71" class="java.lang.String" itemvalue="Google Test.lab5_all_tests" />
+      <item index="72" class="java.lang.String" itemvalue="Google Test.lab5_matrix_tests" />
+      <item index="73" class="java.lang.String" itemvalue="Google Test.lab5_memory_chunk_tests" />
+      <item index="74" class="java.lang.String" itemvalue="Google Test.lab5_text_pool_tests" />
+      <item index="75" class="java.lang.String" itemvalue="Google Test.lab6_all_tests" />
+      <item index="76" class="java.lang.String" itemvalue="Google Test.lab6_student_repository_student_tests" />
+      <item index="77" class="java.lang.String" itemvalue="Google Test.lab6_student_repository_study_year_tests" />
+      <item index="78" class="java.lang.String" itemvalue="Google Test.lab6_student_repository_tests" />
+      <item index="79" class="java.lang.String" itemvalue="Google Test.lab6_word_counter_tests" />
+      <item index="80" class="java.lang.String" itemvalue="Google Test.lab6_zipper_tests" />
+      <item index="81" class="java.lang.String" itemvalue="Google Test.lab7_all_tests" />
+      <item index="82" class="java.lang.String" itemvalue="Google Test.lab7_array_fill_incremental_tests" />
+      <item index="83" class="java.lang.String" itemvalue="Google Test.lab7_array_fill_random_tests" />
+      <item index="84" class="java.lang.String" itemvalue="Google Test.lab7_array_fill_squared_tests" />
+      <item index="85" class="java.lang.String" itemvalue="Google Test.lab7_array_fill_uniform_tests" />
+      <item index="86" class="java.lang.String" itemvalue="Google Test.lab7_comparable_tests" />
+      <item index="87" class="java.lang.String" itemvalue="Google Test.lab7_iterable_enumeration_tests" />
+      <item index="88" class="java.lang.String" itemvalue="Google Test.lab7_iterable_product_tests" />
+      <item index="89" class="java.lang.String" itemvalue="Google Test.lab7_iterable_tests" />
+      <item index="90" class="java.lang.String" itemvalue="Google Test.lab7_iterable_zipper_tests" />
+      <item index="91" class="java.lang.String" itemvalue="Google Test.lab7_student_repository_query_by_first_name_tests" />
+      <item index="92" class="java.lang.String" itemvalue="Google Test.lab7_student_repository_query_tests" />
+      <item index="93" class="java.lang.String" itemvalue="Google Test.lab8_all_tests" />
+      <item index="94" class="java.lang.String" itemvalue="Google Test.lab8_micro_dvd_correct_cases_tests" />
+      <item index="95" class="java.lang.String" itemvalue="Google Test.lab8_micro_dvd_error_cases_tests" />
+      <item index="96" class="java.lang.String" itemvalue="Google Test.lab8_movie_subtitles_tests" />
+      <item index="97" class="java.lang.String" itemvalue="Google Test.lab8_pesel_tests" />
+      <item index="98" class="java.lang.String" itemvalue="Google Test.lab8_sub_rip_correct_cases_tests" />
+      <item index="99" class="java.lang.String" itemvalue="Google Test.lab8_sub_rip_error_cases_tests" />
+      <item index="100" class="java.lang.String" itemvalue="Google Test.lab9_all_tests" />
+      <item index="101" class="java.lang.String" itemvalue="Google Test.lab9_base_serializer_tests" />
+      <item index="102" class="java.lang.String" itemvalue="Google Test.lab9_building_repository_tests" />
+      <item index="103" class="java.lang.String" itemvalue="Google Test.lab9_json_serializer_tests" />
+      <item index="104" class="java.lang.String" itemvalue="Google Test.lab9_xml_serializer_tests" />
+      <item index="105" class="java.lang.String" itemvalue="Application.gmock" />
+      <item index="106" class="java.lang.String" itemvalue="Application.gmock_main" />
+      <item index="107" class="java.lang.String" itemvalue="Application.gtest" />
+      <item index="108" class="java.lang.String" itemvalue="Application.gtest_main" />
+      <item index="109" class="java.lang.String" itemvalue="Application.memleak" />
+      <item index="110" class="java.lang.String" itemvalue="Application.stringutility" />
+      <item index="111" class="java.lang.String" itemvalue="Application.libnetsurl" />
+      <item index="112" class="java.lang.String" itemvalue="Application.netsurl" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e5a3981-9405-4bd8-a712-36d0afac7a5b" name="Default" comment="" />
+      <created>1521531044462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521531044462</updated>
+      <workItem from="1521531048197" duration="3501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3501000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="520" y="141" width="1400" height="960" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab3/ccounter/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/ccounter/CCounter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/tinyurl/TinyUrl.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/netsurl/netsurl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <marker date="1521534417971" expanded="true" signature="124:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/netsurl/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/netsurl/netsurl.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/tinyurl/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/tinyurl/TinyUrl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4/netsurl/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/tinyurl/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

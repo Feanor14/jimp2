@@ -1,4 +1,7 @@
-//
-// Created by sordkami on 20.03.18.
-//
+#include <cmath.h>
+#include <ostream>
+#include <netsurl.h>
 
+using namespace std;
+
+Squ;

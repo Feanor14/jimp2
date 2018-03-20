@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibccounter.a  CMakeFiles/libccounter.dir/CCounter.cpp.o
+/usr/bin/ranlib liblibccounter.a

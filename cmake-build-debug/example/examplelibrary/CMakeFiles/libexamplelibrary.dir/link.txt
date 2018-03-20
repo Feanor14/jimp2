@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibexamplelibrary.a  CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o
+/usr/bin/ranlib liblibexamplelibrary.a
