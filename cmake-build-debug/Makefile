@@ -311,6 +311,84 @@ libnetsurl/fast:
 .PHONY : libnetsurl/fast
 
 #=============================================================================
+# Target rules for targets named matrix
+
+# Build rule for target.
+matrix: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 matrix
+.PHONY : matrix
+
+# fast build rule for target.
+matrix/fast:
+	$(MAKE) -f lab5/matrix/CMakeFiles/matrix.dir/build.make lab5/matrix/CMakeFiles/matrix.dir/build
+.PHONY : matrix/fast
+
+#=============================================================================
+# Target rules for targets named libmatrix
+
+# Build rule for target.
+libmatrix: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libmatrix
+.PHONY : libmatrix
+
+# fast build rule for target.
+libmatrix/fast:
+	$(MAKE) -f lab5/matrix/CMakeFiles/libmatrix.dir/build.make lab5/matrix/CMakeFiles/libmatrix.dir/build
+.PHONY : libmatrix/fast
+
+#=============================================================================
+# Target rules for targets named memorychunk
+
+# Build rule for target.
+memorychunk: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 memorychunk
+.PHONY : memorychunk
+
+# fast build rule for target.
+memorychunk/fast:
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/build
+.PHONY : memorychunk/fast
+
+#=============================================================================
+# Target rules for targets named libmemorychunk
+
+# Build rule for target.
+libmemorychunk: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libmemorychunk
+.PHONY : libmemorychunk
+
+# fast build rule for target.
+libmemorychunk/fast:
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build
+.PHONY : libmemorychunk/fast
+
+#=============================================================================
+# Target rules for targets named textpool
+
+# Build rule for target.
+textpool: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 textpool
+.PHONY : textpool
+
+# fast build rule for target.
+textpool/fast:
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/build
+.PHONY : textpool/fast
+
+#=============================================================================
+# Target rules for targets named libtextpool
+
+# Build rule for target.
+libtextpool: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libtextpool
+.PHONY : libtextpool
+
+# fast build rule for target.
+libtextpool/fast:
+	$(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/build
+.PHONY : libtextpool/fast
+
+#=============================================================================
 # Target rules for targets named gmock_main
 
 # Build rule for target.
@@ -1634,6 +1712,12 @@ help:
 	@echo "... libminimaltimedifference"
 	@echo "... netsurl"
 	@echo "... libnetsurl"
+	@echo "... matrix"
+	@echo "... libmatrix"
+	@echo "... memorychunk"
+	@echo "... libmemorychunk"
+	@echo "... textpool"
+	@echo "... libtextpool"
 	@echo "... gmock_main"
 	@echo "... gmock"
 	@echo "... gtest_main"

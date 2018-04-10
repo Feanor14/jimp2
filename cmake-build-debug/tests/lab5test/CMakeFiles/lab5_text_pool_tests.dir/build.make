@@ -94,6 +94,7 @@ tests/lab5test/lab5_text_pool_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libg
 tests/lab5test/lab5_text_pool_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a
 tests/lab5test/lab5_text_pool_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab5test/lab5_text_pool_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
+tests/lab5test/lab5_text_pool_tests: lab5/textpool/liblibtextpool.a
 tests/lab5test/lab5_text_pool_tests: tests/lib/stringutility/libstringutility.a
 tests/lab5test/lab5_text_pool_tests: tests/lib/memleak/libmemleak.a
 tests/lab5test/lab5_text_pool_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a

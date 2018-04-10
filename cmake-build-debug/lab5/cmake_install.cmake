@@ -32,3 +32,11 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
   set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/matrix/cmake_install.cmake")
+  include("/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/memorychunk/cmake_install.cmake")
+  include("/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/textpool/cmake_install.cmake")
+
+endif()
+

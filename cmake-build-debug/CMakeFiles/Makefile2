@@ -253,7 +253,7 @@ all: lab3/smarttree/CMakeFiles/smarttree.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/smarttree/CMakeFiles/smarttree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/smarttree/CMakeFiles/smarttree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/smarttree/CMakeFiles/smarttree.dir/rule
@@ -280,7 +280,7 @@ clean: lab3/smarttree/CMakeFiles/smarttree.dir/clean
 lab3/smarttree/CMakeFiles/libsmarttree.dir/all:
 	$(MAKE) -f lab3/smarttree/CMakeFiles/libsmarttree.dir/build.make lab3/smarttree/CMakeFiles/libsmarttree.dir/depend
 	$(MAKE) -f lab3/smarttree/CMakeFiles/libsmarttree.dir/build.make lab3/smarttree/CMakeFiles/libsmarttree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target libsmarttree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=91 "Built target libsmarttree"
 .PHONY : lab3/smarttree/CMakeFiles/libsmarttree.dir/all
 
 # Include target in all.
@@ -290,7 +290,7 @@ all: lab3/smarttree/CMakeFiles/libsmarttree.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/smarttree/CMakeFiles/libsmarttree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/smarttree/CMakeFiles/libsmarttree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/smarttree/CMakeFiles/libsmarttree.dir/rule
@@ -347,7 +347,7 @@ all: lab3/tinyurl/CMakeFiles/tinyurl.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/tinyurl/CMakeFiles/tinyurl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/tinyurl/CMakeFiles/tinyurl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/tinyurl/CMakeFiles/tinyurl.dir/rule
@@ -374,7 +374,7 @@ clean: lab3/tinyurl/CMakeFiles/tinyurl.dir/clean
 lab3/tinyurl/CMakeFiles/libtinyurl.dir/all:
 	$(MAKE) -f lab3/tinyurl/CMakeFiles/libtinyurl.dir/build.make lab3/tinyurl/CMakeFiles/libtinyurl.dir/depend
 	$(MAKE) -f lab3/tinyurl/CMakeFiles/libtinyurl.dir/build.make lab3/tinyurl/CMakeFiles/libtinyurl.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=94 "Built target libtinyurl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target libtinyurl"
 .PHONY : lab3/tinyurl/CMakeFiles/libtinyurl.dir/all
 
 # Include target in all.
@@ -384,7 +384,7 @@ all: lab3/tinyurl/CMakeFiles/libtinyurl.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/tinyurl/CMakeFiles/libtinyurl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/tinyurl/CMakeFiles/libtinyurl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/tinyurl/CMakeFiles/libtinyurl.dir/rule
@@ -431,7 +431,7 @@ lab3/ccounter/preinstall:
 lab3/ccounter/CMakeFiles/ccounter.dir/all: lab3/ccounter/CMakeFiles/libccounter.dir/all
 	$(MAKE) -f lab3/ccounter/CMakeFiles/ccounter.dir/build.make lab3/ccounter/CMakeFiles/ccounter.dir/depend
 	$(MAKE) -f lab3/ccounter/CMakeFiles/ccounter.dir/build.make lab3/ccounter/CMakeFiles/ccounter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=1 "Built target ccounter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target ccounter"
 .PHONY : lab3/ccounter/CMakeFiles/ccounter.dir/all
 
 # Include target in all.
@@ -441,7 +441,7 @@ all: lab3/ccounter/CMakeFiles/ccounter.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/ccounter/CMakeFiles/ccounter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/ccounter/CMakeFiles/ccounter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/ccounter/CMakeFiles/ccounter.dir/rule
@@ -468,7 +468,7 @@ clean: lab3/ccounter/CMakeFiles/ccounter.dir/clean
 lab3/ccounter/CMakeFiles/libccounter.dir/all:
 	$(MAKE) -f lab3/ccounter/CMakeFiles/libccounter.dir/build.make lab3/ccounter/CMakeFiles/libccounter.dir/depend
 	$(MAKE) -f lab3/ccounter/CMakeFiles/libccounter.dir/build.make lab3/ccounter/CMakeFiles/libccounter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=90 "Built target libccounter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target libccounter"
 .PHONY : lab3/ccounter/CMakeFiles/libccounter.dir/all
 
 # Include target in all.
@@ -478,7 +478,7 @@ all: lab3/ccounter/CMakeFiles/libccounter.dir/all
 
 # Build rule for subdir invocation for target.
 lab3/ccounter/CMakeFiles/libccounter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 lab3/ccounter/CMakeFiles/libccounter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab3/ccounter/CMakeFiles/libccounter.dir/rule
@@ -562,7 +562,7 @@ clean: lab3/minimaltimedifference/CMakeFiles/minimaltimedifference.dir/clean
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/all:
 	$(MAKE) -f lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/build.make lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/depend
 	$(MAKE) -f lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/build.make lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=92 "Built target libminimaltimedifference"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=90 "Built target libminimaltimedifference"
 .PHONY : lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/all
 
 # Include target in all.
@@ -647,7 +647,7 @@ all: lab4/netsurl/CMakeFiles/netsurl.dir/all
 
 # Build rule for subdir invocation for target.
 lab4/netsurl/CMakeFiles/netsurl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/netsurl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab4/netsurl/CMakeFiles/netsurl.dir/rule
@@ -674,7 +674,7 @@ clean: lab4/netsurl/CMakeFiles/netsurl.dir/clean
 lab4/netsurl/CMakeFiles/libnetsurl.dir/all:
 	$(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/depend
 	$(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=93 "Built target libnetsurl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target libnetsurl"
 .PHONY : lab4/netsurl/CMakeFiles/libnetsurl.dir/all
 
 # Include target in all.
@@ -684,7 +684,7 @@ all: lab4/netsurl/CMakeFiles/libnetsurl.dir/all
 
 # Build rule for subdir invocation for target.
 lab4/netsurl/CMakeFiles/libnetsurl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/libnetsurl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : lab4/netsurl/CMakeFiles/libnetsurl.dir/rule
@@ -708,19 +708,307 @@ clean: lab4/netsurl/CMakeFiles/libnetsurl.dir/clean
 # Directory level rules for directory lab5
 
 # Convenience name for "all" pass in the directory.
-lab5/all:
+lab5/all: lab5/matrix/all
+lab5/all: lab5/memorychunk/all
+lab5/all: lab5/textpool/all
 
 .PHONY : lab5/all
 
 # Convenience name for "clean" pass in the directory.
-lab5/clean:
+lab5/clean: lab5/matrix/clean
+lab5/clean: lab5/memorychunk/clean
+lab5/clean: lab5/textpool/clean
 
 .PHONY : lab5/clean
 
 # Convenience name for "preinstall" pass in the directory.
-lab5/preinstall:
+lab5/preinstall: lab5/matrix/preinstall
+lab5/preinstall: lab5/memorychunk/preinstall
+lab5/preinstall: lab5/textpool/preinstall
 
 .PHONY : lab5/preinstall
+
+#=============================================================================
+# Directory level rules for directory lab5/matrix
+
+# Convenience name for "all" pass in the directory.
+lab5/matrix/all: lab5/matrix/CMakeFiles/matrix.dir/all
+lab5/matrix/all: lab5/matrix/CMakeFiles/libmatrix.dir/all
+
+.PHONY : lab5/matrix/all
+
+# Convenience name for "clean" pass in the directory.
+lab5/matrix/clean: lab5/matrix/CMakeFiles/matrix.dir/clean
+lab5/matrix/clean: lab5/matrix/CMakeFiles/libmatrix.dir/clean
+
+.PHONY : lab5/matrix/clean
+
+# Convenience name for "preinstall" pass in the directory.
+lab5/matrix/preinstall:
+
+.PHONY : lab5/matrix/preinstall
+
+#=============================================================================
+# Target rules for target lab5/matrix/CMakeFiles/matrix.dir
+
+# All Build rule for target.
+lab5/matrix/CMakeFiles/matrix.dir/all: lab5/matrix/CMakeFiles/libmatrix.dir/all
+	$(MAKE) -f lab5/matrix/CMakeFiles/matrix.dir/build.make lab5/matrix/CMakeFiles/matrix.dir/depend
+	$(MAKE) -f lab5/matrix/CMakeFiles/matrix.dir/build.make lab5/matrix/CMakeFiles/matrix.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=93 "Built target matrix"
+.PHONY : lab5/matrix/CMakeFiles/matrix.dir/all
+
+# Include target in all.
+all: lab5/matrix/CMakeFiles/matrix.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/matrix/CMakeFiles/matrix.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/matrix/CMakeFiles/matrix.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/matrix/CMakeFiles/matrix.dir/rule
+
+# Convenience name for target.
+matrix: lab5/matrix/CMakeFiles/matrix.dir/rule
+
+.PHONY : matrix
+
+# clean rule for target.
+lab5/matrix/CMakeFiles/matrix.dir/clean:
+	$(MAKE) -f lab5/matrix/CMakeFiles/matrix.dir/build.make lab5/matrix/CMakeFiles/matrix.dir/clean
+.PHONY : lab5/matrix/CMakeFiles/matrix.dir/clean
+
+# clean rule for target.
+clean: lab5/matrix/CMakeFiles/matrix.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target lab5/matrix/CMakeFiles/libmatrix.dir
+
+# All Build rule for target.
+lab5/matrix/CMakeFiles/libmatrix.dir/all:
+	$(MAKE) -f lab5/matrix/CMakeFiles/libmatrix.dir/build.make lab5/matrix/CMakeFiles/libmatrix.dir/depend
+	$(MAKE) -f lab5/matrix/CMakeFiles/libmatrix.dir/build.make lab5/matrix/CMakeFiles/libmatrix.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=89 "Built target libmatrix"
+.PHONY : lab5/matrix/CMakeFiles/libmatrix.dir/all
+
+# Include target in all.
+all: lab5/matrix/CMakeFiles/libmatrix.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/matrix/CMakeFiles/libmatrix.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/matrix/CMakeFiles/libmatrix.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/matrix/CMakeFiles/libmatrix.dir/rule
+
+# Convenience name for target.
+libmatrix: lab5/matrix/CMakeFiles/libmatrix.dir/rule
+
+.PHONY : libmatrix
+
+# clean rule for target.
+lab5/matrix/CMakeFiles/libmatrix.dir/clean:
+	$(MAKE) -f lab5/matrix/CMakeFiles/libmatrix.dir/build.make lab5/matrix/CMakeFiles/libmatrix.dir/clean
+.PHONY : lab5/matrix/CMakeFiles/libmatrix.dir/clean
+
+# clean rule for target.
+clean: lab5/matrix/CMakeFiles/libmatrix.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory lab5/memorychunk
+
+# Convenience name for "all" pass in the directory.
+lab5/memorychunk/all: lab5/memorychunk/CMakeFiles/memorychunk.dir/all
+lab5/memorychunk/all: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+
+.PHONY : lab5/memorychunk/all
+
+# Convenience name for "clean" pass in the directory.
+lab5/memorychunk/clean: lab5/memorychunk/CMakeFiles/memorychunk.dir/clean
+lab5/memorychunk/clean: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/clean
+
+.PHONY : lab5/memorychunk/clean
+
+# Convenience name for "preinstall" pass in the directory.
+lab5/memorychunk/preinstall:
+
+.PHONY : lab5/memorychunk/preinstall
+
+#=============================================================================
+# Target rules for target lab5/memorychunk/CMakeFiles/memorychunk.dir
+
+# All Build rule for target.
+lab5/memorychunk/CMakeFiles/memorychunk.dir/all: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/depend
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=95 "Built target memorychunk"
+.PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/all
+
+# Include target in all.
+all: lab5/memorychunk/CMakeFiles/memorychunk.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/memorychunk/CMakeFiles/memorychunk.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/memorychunk.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
+
+# Convenience name for target.
+memorychunk: lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
+
+.PHONY : memorychunk
+
+# clean rule for target.
+lab5/memorychunk/CMakeFiles/memorychunk.dir/clean:
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/clean
+.PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/clean
+
+# clean rule for target.
+clean: lab5/memorychunk/CMakeFiles/memorychunk.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target lab5/memorychunk/CMakeFiles/libmemorychunk.dir
+
+# All Build rule for target.
+lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all:
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/depend
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target libmemorychunk"
+.PHONY : lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+
+# Include target in all.
+all: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
+
+# Convenience name for target.
+libmemorychunk: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
+
+.PHONY : libmemorychunk
+
+# clean rule for target.
+lab5/memorychunk/CMakeFiles/libmemorychunk.dir/clean:
+	$(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/clean
+.PHONY : lab5/memorychunk/CMakeFiles/libmemorychunk.dir/clean
+
+# clean rule for target.
+clean: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory lab5/textpool
+
+# Convenience name for "all" pass in the directory.
+lab5/textpool/all: lab5/textpool/CMakeFiles/textpool.dir/all
+lab5/textpool/all: lab5/textpool/CMakeFiles/libtextpool.dir/all
+
+.PHONY : lab5/textpool/all
+
+# Convenience name for "clean" pass in the directory.
+lab5/textpool/clean: lab5/textpool/CMakeFiles/textpool.dir/clean
+lab5/textpool/clean: lab5/textpool/CMakeFiles/libtextpool.dir/clean
+
+.PHONY : lab5/textpool/clean
+
+# Convenience name for "preinstall" pass in the directory.
+lab5/textpool/preinstall:
+
+.PHONY : lab5/textpool/preinstall
+
+#=============================================================================
+# Target rules for target lab5/textpool/CMakeFiles/textpool.dir
+
+# All Build rule for target.
+lab5/textpool/CMakeFiles/textpool.dir/all: lab5/textpool/CMakeFiles/libtextpool.dir/all
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/depend
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=99 "Built target textpool"
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/all
+
+# Include target in all.
+all: lab5/textpool/CMakeFiles/textpool.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/textpool/CMakeFiles/textpool.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/textpool.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/rule
+
+# Convenience name for target.
+textpool: lab5/textpool/CMakeFiles/textpool.dir/rule
+
+.PHONY : textpool
+
+# clean rule for target.
+lab5/textpool/CMakeFiles/textpool.dir/clean:
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/clean
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/clean
+
+# clean rule for target.
+clean: lab5/textpool/CMakeFiles/textpool.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target lab5/textpool/CMakeFiles/libtextpool.dir
+
+# All Build rule for target.
+lab5/textpool/CMakeFiles/libtextpool.dir/all:
+	$(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/depend
+	$(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=92 "Built target libtextpool"
+.PHONY : lab5/textpool/CMakeFiles/libtextpool.dir/all
+
+# Include target in all.
+all: lab5/textpool/CMakeFiles/libtextpool.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+lab5/textpool/CMakeFiles/libtextpool.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/libtextpool.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+.PHONY : lab5/textpool/CMakeFiles/libtextpool.dir/rule
+
+# Convenience name for target.
+libtextpool: lab5/textpool/CMakeFiles/libtextpool.dir/rule
+
+.PHONY : libtextpool
+
+# clean rule for target.
+lab5/textpool/CMakeFiles/libtextpool.dir/clean:
+	$(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/clean
+.PHONY : lab5/textpool/CMakeFiles/libtextpool.dir/clean
+
+# clean rule for target.
+clean: lab5/textpool/CMakeFiles/libtextpool.dir/clean
+
+.PHONY : clean
 
 #=============================================================================
 # Directory level rules for directory lab6
@@ -979,7 +1267,7 @@ tests/lib/gtest-1.8.0/googlemock/preinstall: tests/lib/gtest-1.8.0/googlemock/gt
 tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all:
 	$(MAKE) -f tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/build.make tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) -f tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/build.make tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=4 "Built target gmock_main"
 .PHONY : tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Include target in all.
@@ -989,7 +1277,7 @@ all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/rule
@@ -1083,7 +1371,7 @@ all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/rule
@@ -1110,7 +1398,7 @@ clean: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/clean
 tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/build.make tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/build.make tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=5 "Built target gtest"
 .PHONY : tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 
 # Include target in all.
@@ -1120,7 +1408,7 @@ all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/rule
@@ -1165,7 +1453,7 @@ tests/lib/stringutility/preinstall:
 tests/lib/stringutility/CMakeFiles/stringutility.dir/all:
 	$(MAKE) -f tests/lib/stringutility/CMakeFiles/stringutility.dir/build.make tests/lib/stringutility/CMakeFiles/stringutility.dir/depend
 	$(MAKE) -f tests/lib/stringutility/CMakeFiles/stringutility.dir/build.make tests/lib/stringutility/CMakeFiles/stringutility.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=99 "Built target stringutility"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target stringutility"
 .PHONY : tests/lib/stringutility/CMakeFiles/stringutility.dir/all
 
 # Include target in all.
@@ -1175,7 +1463,7 @@ all: tests/lib/stringutility/CMakeFiles/stringutility.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lib/stringutility/CMakeFiles/stringutility.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lib/stringutility/CMakeFiles/stringutility.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lib/stringutility/CMakeFiles/stringutility.dir/rule
@@ -1223,7 +1511,7 @@ tests/lib/memleak/CMakeFiles/memleak.dir/all: tests/lib/gtest-1.8.0/googlemock/g
 tests/lib/memleak/CMakeFiles/memleak.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/depend
 	$(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=95 "Built target memleak"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=94 "Built target memleak"
 .PHONY : tests/lib/memleak/CMakeFiles/memleak.dir/all
 
 # Include target in all.
@@ -1292,7 +1580,7 @@ tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/all: tests/lib/gtest-1.8.0/go
 tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/depend
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=28 "Built target lab1_factorial_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=27 "Built target lab1_factorial_tests"
 .PHONY : tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/all
 
 # Include target in all.
@@ -1332,7 +1620,7 @@ tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/all: tests/lib/g
 tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/depend
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=27 "Built target lab1_double_base_palindrome_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=26 "Built target lab1_double_base_palindrome_tests"
 .PHONY : tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/all
 
 # Include target in all.
@@ -1372,7 +1660,7 @@ tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/all: tests/lib/gtest-1.8
 tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/depend
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=30 "Built target lab1_reverse_string_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=29 "Built target lab1_reverse_string_tests"
 .PHONY : tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/all
 
 # Include target in all.
@@ -1412,7 +1700,7 @@ tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/all: tests/lib/gtest-1.8.0/g
 tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/depend
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=29 "Built target lab1_palindrome_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=28 "Built target lab1_palindrome_tests"
 .PHONY : tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/all
 
 # Include target in all.
@@ -1493,7 +1781,7 @@ tests/lab1test/CMakeFiles/lab1_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemo
 tests/lab1test/CMakeFiles/lab1_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/depend
 	$(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target lab1_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target lab1_all_tests"
 .PHONY : tests/lab1test/CMakeFiles/lab1_all_tests.dir/all
 
 # Include target in all.
@@ -1579,7 +1867,7 @@ tests/lab2test/CMakeFiles/lab2_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab2test/CMakeFiles/lab2_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_all_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_all_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_all_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=31,32,33,34 "Built target lab2_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=30,31,32,33 "Built target lab2_all_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_all_tests.dir/all
 
 # Include target in all.
@@ -1589,7 +1877,7 @@ all: tests/lab2test/CMakeFiles/lab2_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 9
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_all_tests.dir/rule
@@ -1621,7 +1909,7 @@ tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/all: tests/li
 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_simple_forward_list_step3_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=41 "Built target lab2_simple_forward_list_step3_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_simple_forward_list_step3_tests.dir/all
 
 # Include target in all.
@@ -1663,7 +1951,7 @@ tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/all: tests/lib/strin
 tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=43 "Built target lab2_xor_cypher_breaker_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=42 "Built target lab2_xor_cypher_breaker_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/all
 
 # Include target in all.
@@ -1673,7 +1961,7 @@ all: tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_xor_cypher_breaker_tests.dir/rule
@@ -1705,7 +1993,7 @@ tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/all: tests/li
 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=42 "Built target lab2_simple_forward_list_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_simple_forward_list_step2_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/all
 
 # Include target in all.
@@ -1715,7 +2003,7 @@ all: tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_simple_forward_list_step2_tests.dir/rule
@@ -1746,7 +2034,7 @@ tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/all: tests/lib/gtest-1.8
 tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/all: tests/lib/stringutility/CMakeFiles/stringutility.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=35 "Built target lab2_array_2d_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=34 "Built target lab2_array_2d_step1_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/all
 
 # Include target in all.
@@ -1756,7 +2044,7 @@ all: tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step1_tests.dir/rule
@@ -1788,7 +2076,7 @@ tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/all: tests/lib/stringuti
 tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=36 "Built target lab2_array_2d_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_array_2d_step2_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/all
 
 # Include target in all.
@@ -1798,7 +2086,7 @@ all: tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step2_tests.dir/rule
@@ -1830,7 +2118,7 @@ tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/all: tests/lib/stringuti
 tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=37 "Built target lab2_array_2d_step4_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=36 "Built target lab2_array_2d_step4_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/all
 
 # Include target in all.
@@ -1840,7 +2128,7 @@ all: tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step4_tests.dir/rule
@@ -1872,7 +2160,7 @@ tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/all: tests/lib/stringuti
 tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_polybius_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=39 "Built target lab2_polybius_step2_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_polybius_step2_tests.dir/all
 
 # Include target in all.
@@ -1914,7 +2202,7 @@ tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/all: tests/lib/stringuti
 tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_array_2d_step3_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=35 "Built target lab2_array_2d_step3_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_array_2d_step3_tests.dir/all
 
 # Include target in all.
@@ -1956,7 +2244,7 @@ tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/all: tests/lib/s
 tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=39 "Built target lab2_greatest_product_step3_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=38 "Built target lab2_greatest_product_step3_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/all
 
 # Include target in all.
@@ -1966,7 +2254,7 @@ all: tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_greatest_product_step3_tests.dir/rule
@@ -1998,7 +2286,7 @@ tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/all: tests/lib/s
 tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=38 "Built target lab2_greatest_product_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_greatest_product_step1_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/all
 
 # Include target in all.
@@ -2008,7 +2296,7 @@ all: tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_greatest_product_step1_tests.dir/rule
@@ -2040,7 +2328,7 @@ tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/all: tests/lib/stringuti
 tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=40 "Built target lab2_polybius_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_polybius_step1_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/all
 
 # Include target in all.
@@ -2050,7 +2338,7 @@ all: tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_polybius_step1_tests.dir/rule
@@ -2082,7 +2370,7 @@ tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/all: tests/li
 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=41 "Built target lab2_simple_forward_list_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=40 "Built target lab2_simple_forward_list_step1_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/all
 
 # Include target in all.
@@ -2092,7 +2380,7 @@ all: tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab2test/CMakeFiles/lab2_simple_forward_list_step1_tests.dir/rule
@@ -2124,7 +2412,7 @@ tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/all: tests/lib/s
 tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/depend
 	$(MAKE) -f tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/build.make tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab2_greatest_product_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=37 "Built target lab2_greatest_product_step2_tests"
 .PHONY : tests/lab2test/CMakeFiles/lab2_greatest_product_step2_tests.dir/all
 
 # Include target in all.
@@ -2203,7 +2491,7 @@ tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/all: tests/lib/stringu
 tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_smart_tree_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=47 "Built target lab3_smart_tree_step1_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/all
 
 # Include target in all.
@@ -2213,7 +2501,7 @@ all: tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step1_tests.dir/rule
@@ -2246,7 +2534,7 @@ tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/all: tests/lib/stringu
 tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=49 "Built target lab3_smart_tree_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_smart_tree_step2_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/all
 
 # Include target in all.
@@ -2256,7 +2544,7 @@ all: tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step2_tests.dir/rule
@@ -2289,7 +2577,7 @@ tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/all: tests/lib/stringu
 tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=50 "Built target lab3_smart_tree_step3_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=48 "Built target lab3_smart_tree_step3_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step3_tests.dir/all
 
 # Include target in all.
@@ -2332,7 +2620,7 @@ tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/all: tests/lib/stringu
 tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_smart_tree_step4_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=49 "Built target lab3_smart_tree_step4_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/all
 
 # Include target in all.
@@ -2342,7 +2630,7 @@ all: tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step4_tests.dir/rule
@@ -2375,7 +2663,7 @@ tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/all: tests/lib/stringu
 tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=51 "Built target lab3_smart_tree_step5_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_smart_tree_step5_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/all
 
 # Include target in all.
@@ -2385,7 +2673,7 @@ all: tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_smart_tree_step5_tests.dir/rule
@@ -2418,7 +2706,7 @@ tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/all: tests/lib/stringuti
 tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=52 "Built target lab3_tiny_url_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=50 "Built target lab3_tiny_url_step1_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/all
 
 # Include target in all.
@@ -2428,7 +2716,7 @@ all: tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_tiny_url_step1_tests.dir/rule
@@ -2461,7 +2749,7 @@ tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/all: tests/lib/stringuti
 tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_tiny_url_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=51 "Built target lab3_tiny_url_step2_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/all
 
 # Include target in all.
@@ -2471,7 +2759,7 @@ all: tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_tiny_url_step2_tests.dir/rule
@@ -2504,7 +2792,7 @@ tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/all: tests/lib/
 tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=48 "Built target lab3_minimal_time_difference_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=46 "Built target lab3_minimal_time_difference_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/all
 
 # Include target in all.
@@ -2514,7 +2802,7 @@ all: tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_minimal_time_difference_tests.dir/rule
@@ -2547,7 +2835,7 @@ tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/all: tests/lib/stringutility/
 tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=47 "Built target lab3_c_counter_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab3_c_counter_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/all
 
 # Include target in all.
@@ -2557,7 +2845,7 @@ all: tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_c_counter_tests.dir/rule
@@ -2593,7 +2881,7 @@ tests/lab3test/CMakeFiles/lab3_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab3test/CMakeFiles/lab3_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_all_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_all_tests.dir/depend
 	$(MAKE) -f tests/lab3test/CMakeFiles/lab3_all_tests.dir/build.make tests/lab3test/CMakeFiles/lab3_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=44,45,46 "Built target lab3_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=43,44,45 "Built target lab3_all_tests"
 .PHONY : tests/lab3test/CMakeFiles/lab3_all_tests.dir/all
 
 # Include target in all.
@@ -2603,7 +2891,7 @@ all: tests/lab3test/CMakeFiles/lab3_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab3test/CMakeFiles/lab3_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 10
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab3test/CMakeFiles/lab3_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab3test/CMakeFiles/lab3_all_tests.dir/rule
@@ -2665,7 +2953,7 @@ tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/all: tests/lib/stringutility
 tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=58 "Built target lab4_simple_url_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=56 "Built target lab4_simple_url_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/all
 
 # Include target in all.
@@ -2675,7 +2963,7 @@ all: tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_url_tests.dir/rule
@@ -2707,7 +2995,7 @@ tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/all: t
 tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=57 "Built target lab4_simple_template_engine_injection_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=55 "Built target lab4_simple_template_engine_injection_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/all
 
 # Include target in all.
@@ -2717,7 +3005,7 @@ all: tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/a
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_template_engine_injection_tests.dir/rule
@@ -2749,7 +3037,7 @@ tests/lab4test/CMakeFiles/lab4_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab4test/CMakeFiles/lab4_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_all_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_all_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_all_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=53,54,55 "Built target lab4_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=52,53 "Built target lab4_all_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_all_tests.dir/all
 
 # Include target in all.
@@ -2759,7 +3047,7 @@ all: tests/lab4test/CMakeFiles/lab4_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_all_tests.dir/rule
@@ -2791,7 +3079,7 @@ tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/all: tests/lib/stringutilit
 tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=56 "Built target lab4_simple_json_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab4_simple_json_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/all
 
 # Include target in all.
@@ -2801,7 +3089,7 @@ all: tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_json_tests.dir/rule
@@ -2833,7 +3121,7 @@ tests/lab4test/CMakeFiles/lab4_square_tests.dir/all: tests/lib/stringutility/CMa
 tests/lab4test/CMakeFiles/lab4_square_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_square_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_square_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_square_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_square_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=59 "Built target lab4_square_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=57 "Built target lab4_square_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_square_tests.dir/all
 
 # Include target in all.
@@ -2843,7 +3131,7 @@ all: tests/lab4test/CMakeFiles/lab4_square_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_square_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_square_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_square_tests.dir/rule
@@ -2885,7 +3173,7 @@ all: tests/lab4test/CMakeFiles/lab4_simple_template_engine_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab4test/CMakeFiles/lab4_simple_template_engine_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab4test/CMakeFiles/lab4_simple_template_engine_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab4test/CMakeFiles/lab4_simple_template_engine_tests.dir/rule
@@ -2917,7 +3205,7 @@ tests/lab4test/CMakeFiles/lab4_name_tests.dir/all: tests/lib/stringutility/CMake
 tests/lab4test/CMakeFiles/lab4_name_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_name_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_name_tests.dir/depend
 	$(MAKE) -f tests/lab4test/CMakeFiles/lab4_name_tests.dir/build.make tests/lab4test/CMakeFiles/lab4_name_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab4_name_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=54 "Built target lab4_name_tests"
 .PHONY : tests/lab4test/CMakeFiles/lab4_name_tests.dir/all
 
 # Include target in all.
@@ -2975,6 +3263,9 @@ tests/lab5test/preinstall:
 # Target rules for target tests/lab5test/CMakeFiles/lab5_all_tests.dir
 
 # All Build rule for target.
+tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: lab5/matrix/CMakeFiles/libmatrix.dir/all
+tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
+tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: lab5/textpool/CMakeFiles/libtextpool.dir/all
 tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/all
 tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
@@ -2983,7 +3274,7 @@ tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab5test/CMakeFiles/lab5_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_all_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_all_tests.dir/depend
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_all_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=60 "Built target lab5_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=58 "Built target lab5_all_tests"
 .PHONY : tests/lab5test/CMakeFiles/lab5_all_tests.dir/all
 
 # Include target in all.
@@ -2993,7 +3284,7 @@ all: tests/lab5test/CMakeFiles/lab5_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab5test/CMakeFiles/lab5_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab5test/CMakeFiles/lab5_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab5test/CMakeFiles/lab5_all_tests.dir/rule
@@ -3017,6 +3308,7 @@ clean: tests/lab5test/CMakeFiles/lab5_all_tests.dir/clean
 # Target rules for target tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir
 
 # All Build rule for target.
+tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: lab5/textpool/CMakeFiles/libtextpool.dir/all
 tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/all
 tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
@@ -3025,7 +3317,7 @@ tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: tests/lib/stringutility/
 tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/depend
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=62 "Built target lab5_text_pool_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=60 "Built target lab5_text_pool_tests"
 .PHONY : tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/all
 
 # Include target in all.
@@ -3059,6 +3351,7 @@ clean: tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/clean
 # Target rules for target tests/lab5test/CMakeFiles/lab5_matrix_tests.dir
 
 # All Build rule for target.
+tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: lab5/matrix/CMakeFiles/libmatrix.dir/all
 tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/all
 tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
@@ -3067,7 +3360,7 @@ tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: tests/lib/stringutility/CMa
 tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/depend
 	$(MAKE) -f tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/build.make tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=61 "Built target lab5_matrix_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=59 "Built target lab5_matrix_tests"
 .PHONY : tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/all
 
 # Include target in all.
@@ -3101,6 +3394,7 @@ clean: tests/lab5test/CMakeFiles/lab5_matrix_tests.dir/clean
 # Target rules for target tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir
 
 # All Build rule for target.
+tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/all
 tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/all
 tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/all
 tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/all
@@ -3119,7 +3413,7 @@ all: tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab5test/CMakeFiles/lab5_memory_chunk_tests.dir/rule
@@ -3179,7 +3473,7 @@ tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/all: tests/lib/strin
 tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/depend
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=66 "Built target lab6_student_repository_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=64 "Built target lab6_student_repository_tests"
 .PHONY : tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/all
 
 # Include target in all.
@@ -3189,7 +3483,7 @@ all: tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_student_repository_tests.dir/rule
@@ -3231,7 +3525,7 @@ all: tests/lab6test/CMakeFiles/lab6_zipper_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_zipper_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_zipper_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_zipper_tests.dir/rule
@@ -3263,7 +3557,7 @@ tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/all: tests/l
 tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/depend
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=65 "Built target lab6_student_repository_student_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=63 "Built target lab6_student_repository_student_tests"
 .PHONY : tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/all
 
 # Include target in all.
@@ -3273,7 +3567,7 @@ all: tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_student_repository_student_tests.dir/rule
@@ -3315,7 +3609,7 @@ all: tests/lab6test/CMakeFiles/lab6_student_repository_study_year_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_student_repository_study_year_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_student_repository_study_year_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_student_repository_study_year_tests.dir/rule
@@ -3347,7 +3641,7 @@ tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/all: tests/lib/stringutili
 tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/depend
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=67 "Built target lab6_word_counter_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=65 "Built target lab6_word_counter_tests"
 .PHONY : tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/all
 
 # Include target in all.
@@ -3357,7 +3651,7 @@ all: tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_word_counter_tests.dir/rule
@@ -3389,7 +3683,7 @@ tests/lab6test/CMakeFiles/lab6_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab6test/CMakeFiles/lab6_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_all_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_all_tests.dir/depend
 	$(MAKE) -f tests/lab6test/CMakeFiles/lab6_all_tests.dir/build.make tests/lab6test/CMakeFiles/lab6_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target lab6_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target lab6_all_tests"
 .PHONY : tests/lab6test/CMakeFiles/lab6_all_tests.dir/all
 
 # Include target in all.
@@ -3399,7 +3693,7 @@ all: tests/lab6test/CMakeFiles/lab6_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab6test/CMakeFiles/lab6_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab6test/CMakeFiles/lab6_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab6test/CMakeFiles/lab6_all_tests.dir/rule
@@ -3471,7 +3765,7 @@ tests/lab7test/CMakeFiles/lab7_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab7test/CMakeFiles/lab7_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_all_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_all_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_all_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=68,69,70,71 "Built target lab7_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=66,67,68,69 "Built target lab7_all_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_all_tests.dir/all
 
 # Include target in all.
@@ -3481,7 +3775,7 @@ all: tests/lab7test/CMakeFiles/lab7_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 9
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_all_tests.dir/rule
@@ -3513,7 +3807,7 @@ tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/
 tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=78 "Built target lab7_student_repository_query_by_first_name_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=76 "Built target lab7_student_repository_query_by_first_name_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/all
 
 # Include target in all.
@@ -3523,7 +3817,7 @@ all: tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_student_repository_query_by_first_name_tests.dir/rule
@@ -3555,7 +3849,7 @@ tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/all: tests/lib/s
 tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=72 "Built target lab7_array_fill_incremental_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=70 "Built target lab7_array_fill_incremental_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/all
 
 # Include target in all.
@@ -3565,7 +3859,7 @@ all: tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_incremental_tests.dir/rule
@@ -3597,7 +3891,7 @@ tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/all: tests/lib/stringutility
 tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=75 "Built target lab7_comparable_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_comparable_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/all
 
 # Include target in all.
@@ -3607,7 +3901,7 @@ all: tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_comparable_tests.dir/rule
@@ -3639,7 +3933,7 @@ tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/all: tests/lib/strin
 tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_array_fill_squared_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=71 "Built target lab7_array_fill_squared_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_squared_tests.dir/all
 
 # Include target in all.
@@ -3681,7 +3975,7 @@ tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/all: tests/lib/strin
 tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=74 "Built target lab7_array_fill_uniform_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=72 "Built target lab7_array_fill_uniform_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/all
 
 # Include target in all.
@@ -3691,7 +3985,7 @@ all: tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_uniform_tests.dir/rule
@@ -3723,7 +4017,7 @@ tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/all: tests/lib/stringutility/C
 tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=77 "Built target lab7_iterable_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_iterable_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/all
 
 # Include target in all.
@@ -3733,7 +4027,7 @@ all: tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_tests.dir/rule
@@ -3765,7 +4059,7 @@ tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/all: tests/lib/str
 tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_iterable_enumeration_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=73 "Built target lab7_iterable_enumeration_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_enumeration_tests.dir/all
 
 # Include target in all.
@@ -3807,7 +4101,7 @@ tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/all: tests/lib/string
 tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=73 "Built target lab7_array_fill_random_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_array_fill_random_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/all
 
 # Include target in all.
@@ -3817,7 +4111,7 @@ all: tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_array_fill_random_tests.dir/rule
@@ -3849,7 +4143,7 @@ tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/all: tests/lib/stringut
 tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_iterable_zipper_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=75 "Built target lab7_iterable_zipper_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_zipper_tests.dir/all
 
 # Include target in all.
@@ -3891,7 +4185,7 @@ tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/all: tests/lib/stringu
 tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=76 "Built target lab7_iterable_product_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=74 "Built target lab7_iterable_product_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/all
 
 # Include target in all.
@@ -3901,7 +4195,7 @@ all: tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_iterable_product_tests.dir/rule
@@ -3933,7 +4227,7 @@ tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/all: tests/lib
 tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/depend
 	$(MAKE) -f tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/build.make tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=79 "Built target lab7_student_repository_query_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab7_student_repository_query_tests"
 .PHONY : tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/all
 
 # Include target in all.
@@ -3943,7 +4237,7 @@ all: tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab7test/CMakeFiles/lab7_student_repository_query_tests.dir/rule
@@ -4005,7 +4299,7 @@ tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/all: tests/lib/stringutility/CMak
 tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=84 "Built target lab8_pesel_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=81 "Built target lab8_pesel_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/all
 
 # Include target in all.
@@ -4015,7 +4309,7 @@ all: tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab8test/CMakeFiles/lab8_pesel_tests.dir/rule
@@ -4047,7 +4341,7 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_all_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_all_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_all_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=80,81 "Built target lab8_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target lab8_all_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_all_tests.dir/all
 
 # Include target in all.
@@ -4057,7 +4351,7 @@ all: tests/lab8test/CMakeFiles/lab8_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab8test/CMakeFiles/lab8_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab8test/CMakeFiles/lab8_all_tests.dir/rule
@@ -4089,7 +4383,7 @@ tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/all: tests/lib/stringut
 tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=83 "Built target lab8_movie_subtitles_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab8_movie_subtitles_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/all
 
 # Include target in all.
@@ -4099,7 +4393,7 @@ all: tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab8test/CMakeFiles/lab8_movie_subtitles_tests.dir/rule
@@ -4131,7 +4425,7 @@ tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/all: tests/lib/
 tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=82 "Built target lab8_micro_dvd_correct_cases_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=79 "Built target lab8_micro_dvd_correct_cases_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/all
 
 # Include target in all.
@@ -4141,7 +4435,7 @@ all: tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab8test/CMakeFiles/lab8_micro_dvd_correct_cases_tests.dir/rule
@@ -4173,7 +4467,7 @@ tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/all: tests/lib/st
 tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab8_micro_dvd_error_cases_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=80 "Built target lab8_micro_dvd_error_cases_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_micro_dvd_error_cases_tests.dir/all
 
 # Include target in all.
@@ -4215,7 +4509,7 @@ tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/all: tests/lib/st
 tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab8_sub_rip_correct_cases_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=82 "Built target lab8_sub_rip_correct_cases_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_sub_rip_correct_cases_tests.dir/all
 
 # Include target in all.
@@ -4257,7 +4551,7 @@ tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/all: tests/lib/stri
 tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/depend
 	$(MAKE) -f tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/build.make tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=85 "Built target lab8_sub_rip_error_cases_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab8_sub_rip_error_cases_tests"
 .PHONY : tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/all
 
 # Include target in all.
@@ -4267,7 +4561,7 @@ all: tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab8test/CMakeFiles/lab8_sub_rip_error_cases_tests.dir/rule
@@ -4325,7 +4619,7 @@ tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/all: tests/lib/stringut
 tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/depend
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab9_base_serializer_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=85 "Built target lab9_base_serializer_tests"
 .PHONY : tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/all
 
 # Include target in all.
@@ -4367,7 +4661,7 @@ tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/all: tests/lib/stringuti
 tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/depend
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab9_xml_serializer_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=87 "Built target lab9_xml_serializer_tests"
 .PHONY : tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/all
 
 # Include target in all.
@@ -4409,7 +4703,7 @@ tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/all: tests/lib/stringut
 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/depend
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=89 "Built target lab9_json_serializer_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=86 "Built target lab9_json_serializer_tests"
 .PHONY : tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/all
 
 # Include target in all.
@@ -4419,7 +4713,7 @@ all: tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule
@@ -4451,7 +4745,7 @@ tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/all: tests/lib/stri
 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/depend
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=88 "Built target lab9_building_repository_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab9_building_repository_tests"
 .PHONY : tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/all
 
 # Include target in all.
@@ -4461,7 +4755,7 @@ all: tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule
@@ -4493,7 +4787,7 @@ tests/lab9test/CMakeFiles/lab9_all_tests.dir/all: tests/lib/stringutility/CMakeF
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/depend
 	$(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=86,87 "Built target lab9_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target lab9_all_tests"
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/all
 
 # Include target in all.
@@ -4503,7 +4797,7 @@ all: tests/lab9test/CMakeFiles/lab9_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule
@@ -4567,7 +4861,7 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/all: tests/lib/stringutility/CMak
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_all_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_all_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_all_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=10,11,12 "Built target lab10_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target lab10_all_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_all_tests.dir/all
 
 # Include target in all.
@@ -4577,7 +4871,7 @@ all: tests/lab10test/CMakeFiles/lab10_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab10test/CMakeFiles/lab10_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab10test/CMakeFiles/lab10_all_tests.dir/rule
@@ -4609,7 +4903,7 @@ tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/all: tests/lib/stringutility
 tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=13 "Built target lab10_schedule_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=12 "Built target lab10_schedule_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/all
 
 # Include target in all.
@@ -4619,7 +4913,7 @@ all: tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab10test/CMakeFiles/lab10_schedule_tests.dir/rule
@@ -4651,7 +4945,7 @@ tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/all: tests/lib/stringutili
 tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab10_algo_step2_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=7 "Built target lab10_algo_step2_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step2_tests.dir/all
 
 # Include target in all.
@@ -4703,7 +4997,7 @@ all: tests/lab10test/CMakeFiles/lab10_algo_step3_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab10test/CMakeFiles/lab10_algo_step3_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab10test/CMakeFiles/lab10_algo_step3_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step3_tests.dir/rule
@@ -4735,7 +5029,7 @@ tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/all: tests/lib/stringutili
 tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=9 "Built target lab10_algo_step4_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab10_algo_step4_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/all
 
 # Include target in all.
@@ -4745,7 +5039,7 @@ all: tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step4_tests.dir/rule
@@ -4777,7 +5071,7 @@ tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/all: tests/lib/stringutili
 tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab10_algo_step5_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=9 "Built target lab10_algo_step5_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step5_tests.dir/all
 
 # Include target in all.
@@ -4819,7 +5113,7 @@ tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/all: tests/lib/stringutilit
 tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab10_scheduler_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=13 "Built target lab10_scheduler_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_scheduler_tests.dir/all
 
 # Include target in all.
@@ -4861,7 +5155,7 @@ tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/all: tests/lib/stringutili
 tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/depend
 	$(MAKE) -f tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/build.make tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=7 "Built target lab10_algo_step1_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab10_algo_step1_tests"
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/all
 
 # Include target in all.
@@ -4871,7 +5165,7 @@ all: tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab10test/CMakeFiles/lab10_algo_step1_tests.dir/rule
@@ -4922,7 +5216,7 @@ tests/lab11test/CMakeFiles/lab11_all_tests.dir/all: tests/lib/gtest-1.8.0/google
 tests/lab11test/CMakeFiles/lab11_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/depend
 	$(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=14 "Built target lab11_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab11_all_tests"
 .PHONY : tests/lab11test/CMakeFiles/lab11_all_tests.dir/all
 
 # Include target in all.
@@ -4932,7 +5226,7 @@ all: tests/lab11test/CMakeFiles/lab11_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule
@@ -4964,7 +5258,7 @@ tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/all: tests/lib/stringu
 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/depend
 	$(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=15 "Built target lab11_factory_method_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=14 "Built target lab11_factory_method_tests"
 .PHONY : tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/all
 
 # Include target in all.
@@ -4974,7 +5268,7 @@ all: tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule
@@ -5038,7 +5332,7 @@ tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/all: tests/lib/stringut
 tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab12_time_recorder_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=19 "Built target lab12_time_recorder_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_time_recorder_tests.dir/all
 
 # Include target in all.
@@ -5080,7 +5374,7 @@ tests/lab12test/CMakeFiles/lab12_tree_tests.dir/all: tests/lib/stringutility/CMa
 tests/lab12test/CMakeFiles/lab12_tree_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=22 "Built target lab12_tree_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab12_tree_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_tests.dir/all
 
 # Include target in all.
@@ -5090,7 +5384,7 @@ all: tests/lab12test/CMakeFiles/lab12_tree_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_tree_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_tree_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_tests.dir/rule
@@ -5122,7 +5416,7 @@ tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/all: tests/lib/stringuti
 tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=19 "Built target lab12_teacher_hash_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=18 "Built target lab12_teacher_hash_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/all
 
 # Include target in all.
@@ -5132,7 +5426,7 @@ all: tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_teacher_hash_tests.dir/rule
@@ -5164,7 +5458,7 @@ tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/all: tests/lib/s
 tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=18 "Built target lab12_sequential_generator_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab12_sequential_generator_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/all
 
 # Include target in all.
@@ -5174,7 +5468,7 @@ all: tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_sequential_generator_tests.dir/rule
@@ -5205,7 +5499,7 @@ tests/lab12test/CMakeFiles/lab12_all_tests.dir/all: tests/lib/gtest-1.8.0/google
 tests/lab12test/CMakeFiles/lab12_all_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_all_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_all_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_all_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target lab12_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=15,16,17 "Built target lab12_all_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_all_tests.dir/all
 
 # Include target in all.
@@ -5215,7 +5509,7 @@ all: tests/lab12test/CMakeFiles/lab12_all_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_all_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_all_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_all_tests.dir/rule
@@ -5247,7 +5541,7 @@ tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/all: tests/lib/stringuti
 tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=20 "Built target lab12_tree_inorder_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab12_tree_inorder_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/all
 
 # Include target in all.
@@ -5257,7 +5551,7 @@ all: tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_inorder_tests.dir/rule
@@ -5289,7 +5583,7 @@ tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/all: tests/lib/stringut
 tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target lab12_tree_preorder_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=21 "Built target lab12_tree_preorder_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_preorder_tests.dir/all
 
 # Include target in all.
@@ -5331,7 +5625,7 @@ tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/all: tests/lib/stringu
 tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/depend
 	$(MAKE) -f tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/build.make tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=21 "Built target lab12_tree_postorder_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=20 "Built target lab12_tree_postorder_tests"
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/all
 
 # Include target in all.
@@ -5341,7 +5635,7 @@ all: tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab12test/CMakeFiles/lab12_tree_postorder_tests.dir/rule
@@ -5393,7 +5687,7 @@ tests/lab13test/CMakeFiles/lab13_all_tests.dir/all: tests/lib/gtest-1.8.0/google
 tests/lab13test/CMakeFiles/lab13_all_tests.dir/all: tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f tests/lab13test/CMakeFiles/lab13_all_tests.dir/build.make tests/lab13test/CMakeFiles/lab13_all_tests.dir/depend
 	$(MAKE) -f tests/lab13test/CMakeFiles/lab13_all_tests.dir/build.make tests/lab13test/CMakeFiles/lab13_all_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=23 "Built target lab13_all_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=22 "Built target lab13_all_tests"
 .PHONY : tests/lab13test/CMakeFiles/lab13_all_tests.dir/all
 
 # Include target in all.
@@ -5445,7 +5739,7 @@ all: tests/lab13test/CMakeFiles/lab13_roman_to_arabic_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab13test/CMakeFiles/lab13_roman_to_arabic_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab13test/CMakeFiles/lab13_roman_to_arabic_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab13test/CMakeFiles/lab13_roman_to_arabic_tests.dir/rule
@@ -5477,7 +5771,7 @@ tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/all: tests/lib/string
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/all: tests/lib/memleak/CMakeFiles/memleak.dir/all
 	$(MAKE) -f tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/build.make tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/depend
 	$(MAKE) -f tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/build.make tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=24 "Built target lab13_arabic_to_roman_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=23 "Built target lab13_arabic_to_roman_tests"
 .PHONY : tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/all
 
 # Include target in all.
@@ -5487,7 +5781,7 @@ all: tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/rule
@@ -5536,7 +5830,7 @@ tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/all: tests/lib/gte
 tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/all: example/examplelibrary/CMakeFiles/libexamplelibrary.dir/all
 	$(MAKE) -f tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/build.make tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/depend
 	$(MAKE) -f tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/build.make tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num= "Built target example_examplelibrary_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=1 "Built target example_examplelibrary_tests"
 .PHONY : tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/all
 
 # Include target in all.
@@ -5546,7 +5840,7 @@ all: tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/all
 
 # Build rule for subdir invocation for target.
 tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles 0
 .PHONY : tests/exampletest/CMakeFiles/example_examplelibrary_tests.dir/rule
@@ -5609,7 +5903,7 @@ example/examplelibrary/preinstall:
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/all:
 	$(MAKE) -f example/examplelibrary/CMakeFiles/libexamplelibrary.dir/build.make example/examplelibrary/CMakeFiles/libexamplelibrary.dir/depend
 	$(MAKE) -f example/examplelibrary/CMakeFiles/libexamplelibrary.dir/build.make example/examplelibrary/CMakeFiles/libexamplelibrary.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=91 "Built target libexamplelibrary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/CMakeFiles --progress-num=88 "Built target libexamplelibrary"
 .PHONY : example/examplelibrary/CMakeFiles/libexamplelibrary.dir/all
 
 # Include target in all.

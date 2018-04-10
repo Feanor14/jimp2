@@ -363,6 +363,12 @@ libexamplelibrary_LIB_DEPENDS:STATIC=
 libfactorial_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libmatrix_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+libmemorychunk_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libminimaltimedifference_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
@@ -372,7 +378,16 @@ libnetsurl_LIB_DEPENDS:STATIC=
 libsmarttree_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libtextpool_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libtinyurl_LIB_DEPENDS:STATIC=
+
+//Value Computed by CMake
+matrix_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/matrix
+
+//Value Computed by CMake
+matrix_SOURCE_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/lab5/matrix
 
 //Value Computed by CMake
 memleak_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/memleak
@@ -382,6 +397,12 @@ memleak_LIB_DEPENDS:STATIC=general;gtest;general;gtest_main;general;gmock;genera
 
 //Value Computed by CMake
 memleak_SOURCE_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/memleak
+
+//Value Computed by CMake
+memorychunk_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/memorychunk
+
+//Value Computed by CMake
+memorychunk_SOURCE_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/lab5/memorychunk
 
 //Value Computed by CMake
 minimaltimedifference_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/minimaltimedifference
@@ -409,6 +430,12 @@ stringutility_LIB_DEPENDS:STATIC=
 
 //Value Computed by CMake
 stringutility_SOURCE_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/stringutility
+
+//Value Computed by CMake
+textpool_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/textpool
+
+//Value Computed by CMake
+textpool_SOURCE_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/lab5/textpool
 
 //Value Computed by CMake
 tinyurl_BINARY_DIR:STATIC=/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/tinyurl
@@ -523,7 +550,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=42
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=45
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
