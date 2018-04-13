@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/students/s/sordkami/CLionProjects/jimp2/lab4/netsurl/netsurl.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.o"
+  "/home/guest/CLionProjects/temp/lab4/netsurl/netsurl.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/matrix/CMakeFiles/libmatrix.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/lab5/matrix/CMakeFiles/libmatrix.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

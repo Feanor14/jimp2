@@ -1,1 +1,1 @@
-/usr/bin/c++   -g     -o matrix liblibmatrix.a 
+/usr/bin/c++  -g     -o matrix liblibmatrix.a 

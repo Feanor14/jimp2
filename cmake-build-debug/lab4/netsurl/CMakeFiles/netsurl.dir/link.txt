@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/netsurl.dir/netsurl.cpp.o CMakeFiles/netsurl.dir/main.cpp.o  -o netsurl liblibnetsurl.a 
+/usr/bin/c++  -g   CMakeFiles/netsurl.dir/netsurl.cpp.o CMakeFiles/netsurl.dir/main.cpp.o  -o netsurl liblibnetsurl.a 

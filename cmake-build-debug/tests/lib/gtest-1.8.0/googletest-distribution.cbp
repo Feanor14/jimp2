@@ -5,576 +5,384 @@
 		<Option title="googletest-distribution"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\lab3\;CMake Files\lab3\ccounter\;CMake Files\lab3\smarttree\;CMake Files\lab3\tinyurl\;CMake Files\lab3\minimaltimedifference\;CMake Files\example\;CMake Files\example\examplelibrary\;CMake Files\lab1\;CMake Files\lab1\factorial\;CMake Files\tests\;CMake Files\tests\lib\;CMake Files\tests\lib\gtest-1.8.0\;CMake Files\tests\lib\gtest-1.8.0\googlemock\;CMake Files\tests\lib\gtest-1.8.0\googletest\;CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\;CMake Files\tests\lib\stringutility\;CMake Files\tests\lib\memleak\;CMake Files\tests\lab1test\;CMake Files\tests\lab2test\;CMake Files\tests\lab3test\;CMake Files\tests\lab4test\;CMake Files\tests\lab5test\;CMake Files\tests\lab6test\;CMake Files\tests\lab7test\;CMake Files\tests\lab8test\;CMake Files\tests\lab9test\;CMake Files\tests\lab10test\;CMake Files\tests\lab11test\;CMake Files\tests\lab12test\;CMake Files\tests\lab13test\;CMake Files\tests\exampletest\;CMake Files\lab2\;CMake Files\lab4\;CMake Files\lab4\netsurl\;CMake Files\lab5\;CMake Files\lab5\matrix\;CMake Files\lab5\memorychunk\;CMake Files\lab5\textpool\;CMake Files\lab6\;CMake Files\lab7\;CMake Files\lab8\;CMake Files\lab9\;CMake Files\lab10\;CMake Files\lab11\;CMake Files\lab12\;CMake Files\lab13\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lab6\;CMake Files\lab6\academia\;CMake Files\lab6\wordcounter\;CMake Files\lab3\;CMake Files\lab3\ccounter\;CMake Files\lab3\smarttree\;CMake Files\lab3\tinyurl\;CMake Files\lab3\minimaltimedifference\;CMake Files\example\;CMake Files\example\examplelibrary\;CMake Files\lab1\;CMake Files\lab1\factorial\;CMake Files\tests\;CMake Files\tests\lib\;CMake Files\tests\lib\gtest-1.8.0\;CMake Files\tests\lib\gtest-1.8.0\googlemock\;CMake Files\tests\lib\gtest-1.8.0\googletest\;CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\;CMake Files\tests\lib\stringutility\;CMake Files\tests\lib\memleak\;CMake Files\tests\lab1test\;CMake Files\tests\lab2test\;CMake Files\tests\lab3test\;CMake Files\tests\lab4test\;CMake Files\tests\lab5test\;CMake Files\tests\lab6test\;CMake Files\tests\lab7test\;CMake Files\tests\lab8test\;CMake Files\tests\lab9test\;CMake Files\tests\lab10test\;CMake Files\tests\lab11test\;CMake Files\tests\lab12test\;CMake Files\tests\lab13test\;CMake Files\tests\exampletest\;CMake Files\lab2\;CMake Files\lab4\;CMake Files\lab4\netsurl\;CMake Files\lab5\;CMake Files\lab5\matrix\;CMake Files\lab5\memorychunk\;CMake Files\lab5\textpool\;CMake Files\lab7\;CMake Files\lab8\;CMake Files\lab9\;CMake Files\lab10\;CMake Files\lab11\;CMake Files\lab12\;CMake Files\lab13\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main/fast">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock/fast">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
+				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/include"/>
-					<Add directory="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include"/>
+					<Add directory="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/src/gmock-all.cc">
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/src/gmock-all.cc">
 			<Option target="gmock_main"/>
 			<Option target="gmock"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/src/gmock_main.cc">
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/src/gmock_main.cc">
 			<Option target="gmock_main"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/src/gtest-all.cc">
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/src/gtest-all.cc">
 			<Option target="gmock_main"/>
 			<Option target="gmock"/>
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/src/gtest_main.cc">
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/ccounter/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\ccounter\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/ccounter/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\ccounter\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/ccounter/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\ccounter\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/smarttree/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\smarttree\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/smarttree/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\smarttree\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/smarttree/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\smarttree\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/tinyurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\tinyurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/tinyurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\tinyurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/tinyurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\tinyurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/minimaltimedifference/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\minimaltimedifference\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/minimaltimedifference/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\minimaltimedifference\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab3/minimaltimedifference/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab3\minimaltimedifference\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/example/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\example\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/example/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\example\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/example/examplelibrary/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\example\examplelibrary\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/example/examplelibrary/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\example\examplelibrary\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/example/examplelibrary/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\example\examplelibrary\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab1/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab1\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab1/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab1\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab1/factorial/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab1\factorial\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab1/factorial/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab1\factorial\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab1/factorial/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab1\factorial\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
-			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/stringutility/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\stringutility\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/stringutility/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\stringutility\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/stringutility/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\stringutility\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/memleak/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\memleak\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/memleak/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\memleak\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lib/memleak/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lib\memleak\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab1test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab1test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab1test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab1test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab2test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab2test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab2test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab2test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab3test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab3test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab3test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab3test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab4test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab4test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab4test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab4test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab5test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab5test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab5test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab5test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab6test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab6test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab6test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab6test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab7test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab7test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab7test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab7test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab8test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab8test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab8test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab8test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab9test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab9test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab9test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab9test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab10test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab10test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab10test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab10test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab11test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab11test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab11test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab11test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab12test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab12test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab12test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab12test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab13test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab13test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/lab13test/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\lab13test\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/exampletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\exampletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/tests/exampletest/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\tests\exampletest\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab2/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab2\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab2/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab2\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab4/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab4/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab4/netsurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab4/netsurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab4/netsurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/matrix/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\matrix\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/matrix/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\matrix\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/matrix/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\matrix\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/memorychunk/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/memorychunk/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/memorychunk/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/textpool/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\textpool\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/textpool/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\textpool\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab5/textpool/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\textpool\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab6/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab6/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab6\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab6/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab6\"/>
+		<Unit filename="/home/guest/CLionProjects/temp/lab6/academia/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab6\academia\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab7/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab6/wordcounter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab6\wordcounter\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab3\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab3/ccounter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab3\ccounter\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab3/smarttree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab3\smarttree\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab3/tinyurl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab3\tinyurl\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab3/minimaltimedifference/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab3\minimaltimedifference\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/example/examplelibrary/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\examplelibrary\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab1\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab1/factorial/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab1\factorial\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/stringutility/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\stringutility\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/memleak/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lib\memleak\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab1test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab1test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab2test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab2test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab3test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab3test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab4test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab4test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab5test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab5test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab6test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab6test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab7test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab7test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab8test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab8test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab9test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab9test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab10test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab10test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab11test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab11test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab12test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab12test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/lab13test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\lab13test\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/tests/exampletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\exampletest\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab2\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab4\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab4/netsurl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab5/matrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\matrix\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab5/memorychunk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab5/textpool/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\textpool\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/temp/lab7/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab7\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab7/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab7\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab8/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab8/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab8\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab8/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab8\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab9/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab9/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab9\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab9/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab9\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab10/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab10/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab10\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab10/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab10\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab11/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab11/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab11\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab11/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab11\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab12/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab12/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab12\"/>
 		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab12/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab12\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab13/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab13\"/>
-		</Unit>
-		<Unit filename="/home/students/s/sordkami/CLionProjects/jimp2/lab13/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/temp/lab13/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab13\"/>
 		</Unit>
 	</Project>

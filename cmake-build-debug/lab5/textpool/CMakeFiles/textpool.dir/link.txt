@@ -1,1 +1,1 @@
-/usr/bin/c++   -g     -o textpool liblibtextpool.a 
+/usr/bin/c++  -g     -o textpool liblibtextpool.a 

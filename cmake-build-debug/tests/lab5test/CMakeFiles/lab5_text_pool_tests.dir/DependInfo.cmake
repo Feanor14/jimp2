@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/students/s/sordkami/CLionProjects/jimp2/tests/lab5test/TextPoolTest.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/TextPoolTest.cpp.o"
+  "/home/guest/CLionProjects/temp/tests/lab5test/TextPoolTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab5test/CMakeFiles/lab5_text_pool_tests.dir/TextPoolTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -21,13 +21,13 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab5/textpool/CMakeFiles/libtextpool.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool/CMakeFiles/libtextpool.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

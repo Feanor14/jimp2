@@ -1,4 +1,4 @@
-# Install script for directory: /home/students/s/sordkami/CLionProjects/jimp2/example
+# Install script for directory: /home/guest/CLionProjects/temp/example
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -32,9 +32,14 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
   set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
+# Is this installation the result of a crosscompile?
+if(NOT DEFINED CMAKE_CROSSCOMPILING)
+  set(CMAKE_CROSSCOMPILING "FALSE")
+endif()
+
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/example/examplelibrary/cmake_install.cmake")
+  include("/home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary/cmake_install.cmake")
 
 endif()
 

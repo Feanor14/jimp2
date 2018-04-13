@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/students/s/sordkami/CLionProjects/jimp2/lab3/ccounter/CCounter.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/ccounter/CMakeFiles/ccounter.dir/CCounter.cpp.o"
-  "/home/students/s/sordkami/CLionProjects/jimp2/lab3/ccounter/main.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/ccounter/CMakeFiles/ccounter.dir/main.cpp.o"
+  "/home/guest/CLionProjects/temp/lab3/ccounter/CCounter.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/lab3/ccounter/CMakeFiles/ccounter.dir/CCounter.cpp.o"
+  "/home/guest/CLionProjects/temp/lab3/ccounter/main.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/lab3/ccounter/CMakeFiles/ccounter.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,7 +16,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/ccounter/CMakeFiles/libccounter.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/temp/cmake-build-debug/lab3/ccounter/CMakeFiles/libccounter.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

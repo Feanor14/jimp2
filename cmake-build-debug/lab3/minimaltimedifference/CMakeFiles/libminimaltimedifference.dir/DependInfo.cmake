@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/students/s/sordkami/CLionProjects/jimp2/lab3/minimaltimedifference/MinimalTimeDifference.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o"
+  "/home/guest/CLionProjects/temp/lab3/minimaltimedifference/MinimalTimeDifference.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

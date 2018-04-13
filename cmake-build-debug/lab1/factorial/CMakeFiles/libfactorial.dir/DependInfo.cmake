@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/students/s/sordkami/CLionProjects/jimp2/lab1/factorial/Factorial.cpp" "/home/students/s/sordkami/CLionProjects/jimp2/cmake-build-debug/lab1/factorial/CMakeFiles/libfactorial.dir/Factorial.cpp.o"
+  "/home/guest/CLionProjects/temp/lab1/factorial/Factorial.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial/CMakeFiles/libfactorial.dir/Factorial.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
