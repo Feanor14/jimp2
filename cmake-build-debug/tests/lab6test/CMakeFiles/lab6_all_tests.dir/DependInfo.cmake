@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guest/CLionProjects/temp/tests/lab6test/StudentRepositoryStudentTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryStudentTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab6test/StudentRepositoryStudyYearTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryStudyYearTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab6test/StudentRepositoryTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab6test/WordCounterTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/WordCounterTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab6test/ZipperTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/ZipperTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab6test/StudentRepositoryStudentTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryStudentTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab6test/StudentRepositoryStudyYearTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryStudyYearTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab6test/StudentRepositoryTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/StudentRepositoryTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab6test/WordCounterTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/WordCounterTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab6test/ZipperTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab6test/CMakeFiles/lab6_all_tests.dir/ZipperTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -25,13 +25,13 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/CMakeFiles/libwordcounter.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/CMakeFiles/libwordcounter.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

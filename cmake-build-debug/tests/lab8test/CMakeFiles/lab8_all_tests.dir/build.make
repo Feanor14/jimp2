@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include tests/lab8test/CMakeFiles/lab8_all_tests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o: ../tests/lab8test/SubRipErrorCasesTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/SubRipErrorCasesTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipErrorCasesTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/SubRipErrorCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipErrorCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/SubRipErrorCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipErrorCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o.requires:
 
@@ -83,16 +83,16 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o.provides
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o: ../tests/lab8test/SubRipCorrectCasesTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/SubRipCorrectCasesTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipCorrectCasesTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/SubRipCorrectCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipCorrectCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/SubRipCorrectCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/SubRipCorrectCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o.requires:
 
@@ -107,16 +107,16 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o.provid
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o: ../tests/lab8test/MicroDvdErrorCasesTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdErrorCasesTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdErrorCasesTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdErrorCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdErrorCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdErrorCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdErrorCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o.requires:
 
@@ -131,16 +131,16 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o.provid
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o: ../tests/lab8test/MicroDvdCorrectCasesTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdCorrectCasesTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdCorrectCasesTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdCorrectCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdCorrectCasesTest.cpp > CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/MicroDvdCorrectCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdCorrectCasesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o.requires:
 
@@ -155,16 +155,16 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o.prov
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o: ../tests/lab8test/MovieSubtitlesTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/MovieSubtitlesTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/MovieSubtitlesTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/MovieSubtitlesTest.cpp > CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/MovieSubtitlesTest.cpp > CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/MovieSubtitlesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/MovieSubtitlesTest.cpp -o CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o.requires:
 
@@ -179,16 +179,16 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o.provides.b
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o: tests/lab8test/CMakeFiles/lab8_all_tests.dir/flags.make
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o: ../tests/lab8test/PeselTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab8test/PeselTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab8test/PeselTest.cpp
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab8test/PeselTest.cpp > CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab8test/PeselTest.cpp > CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.i
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab8test/PeselTest.cpp -o CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab8test/PeselTest.cpp -o CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.s
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o.requires:
 
@@ -231,8 +231,8 @@ tests/lab8test/lab8_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a
 tests/lab8test/lab8_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab8test/lab8_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
 tests/lab8test/lab8_all_tests: tests/lab8test/CMakeFiles/lab8_all_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable lab8_all_tests"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab8_all_tests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable lab8_all_tests"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab8_all_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/build: tests/lab8test/lab8_all_tests
@@ -249,10 +249,10 @@ tests/lab8test/CMakeFiles/lab8_all_tests.dir/requires: tests/lab8test/CMakeFiles
 .PHONY : tests/lab8test/CMakeFiles/lab8_all_tests.dir/requires
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test && $(CMAKE_COMMAND) -P CMakeFiles/lab8_all_tests.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test && $(CMAKE_COMMAND) -P CMakeFiles/lab8_all_tests.dir/cmake_clean.cmake
 .PHONY : tests/lab8test/CMakeFiles/lab8_all_tests.dir/clean
 
 tests/lab8test/CMakeFiles/lab8_all_tests.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/tests/lab8test /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/tests/lab8test /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/lab8test/CMakeFiles/lab8_all_tests.dir/depend
 

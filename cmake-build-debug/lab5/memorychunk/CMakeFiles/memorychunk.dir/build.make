@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include lab5/memorychunk/CMakeFiles/memorychunk.dir/depend.make
@@ -59,16 +59,16 @@ include lab5/memorychunk/CMakeFiles/memorychunk.dir/flags.make
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o: lab5/memorychunk/CMakeFiles/memorychunk.dir/flags.make
 lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o: ../lab5/memorychunk/MemoryChunk.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o -c /home/guest/CLionProjects/temp/lab5/memorychunk/MemoryChunk.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o -c /home/guest/CLionProjects/jimp22/lab5/memorychunk/MemoryChunk.cpp
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab5/memorychunk/MemoryChunk.cpp > CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab5/memorychunk/MemoryChunk.cpp > CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab5/memorychunk/MemoryChunk.cpp -o CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab5/memorychunk/MemoryChunk.cpp -o CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o.requires:
 
@@ -83,16 +83,16 @@ lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o.provides.build: la
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o: lab5/memorychunk/CMakeFiles/memorychunk.dir/flags.make
 lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o: ../lab5/memorychunk/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/memorychunk.dir/main.cpp.o -c /home/guest/CLionProjects/temp/lab5/memorychunk/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/memorychunk.dir/main.cpp.o -c /home/guest/CLionProjects/jimp22/lab5/memorychunk/main.cpp
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/memorychunk.dir/main.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab5/memorychunk/main.cpp > CMakeFiles/memorychunk.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab5/memorychunk/main.cpp > CMakeFiles/memorychunk.dir/main.cpp.i
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/memorychunk.dir/main.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab5/memorychunk/main.cpp -o CMakeFiles/memorychunk.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab5/memorychunk/main.cpp -o CMakeFiles/memorychunk.dir/main.cpp.s
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o.requires:
 
@@ -118,8 +118,8 @@ lab5/memorychunk/memorychunk: lab5/memorychunk/CMakeFiles/memorychunk.dir/main.c
 lab5/memorychunk/memorychunk: lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make
 lab5/memorychunk/memorychunk: lab5/memorychunk/liblibmemorychunk.a
 lab5/memorychunk/memorychunk: lab5/memorychunk/CMakeFiles/memorychunk.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable memorychunk"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/memorychunk.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable memorychunk"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/memorychunk.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 lab5/memorychunk/CMakeFiles/memorychunk.dir/build: lab5/memorychunk/memorychunk
@@ -132,10 +132,10 @@ lab5/memorychunk/CMakeFiles/memorychunk.dir/requires: lab5/memorychunk/CMakeFile
 .PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/requires
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk && $(CMAKE_COMMAND) -P CMakeFiles/memorychunk.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk && $(CMAKE_COMMAND) -P CMakeFiles/memorychunk.dir/cmake_clean.cmake
 .PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/clean
 
 lab5/memorychunk/CMakeFiles/memorychunk.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/lab5/memorychunk /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk/CMakeFiles/memorychunk.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/lab5/memorychunk /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk/CMakeFiles/memorychunk.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/depend
 

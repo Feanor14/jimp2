@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/rule
 .PHONY : tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ lab9_base_serializer_tests: tests/lab9test/CMakeFiles/lab9_base_serializer_tests
 
 # fast build rule for target.
 lab9_base_serializer_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build
 .PHONY : lab9_base_serializer_tests/fast
 
 # Convenience name for target.
 tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/rule
 .PHONY : tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/rule
 
 # Convenience name for target.
@@ -183,12 +183,12 @@ lab9_xml_serializer_tests: tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.d
 
 # fast build rule for target.
 lab9_xml_serializer_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build
 .PHONY : lab9_xml_serializer_tests/fast
 
 # Convenience name for target.
 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule
 .PHONY : tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/rule
 
 # Convenience name for target.
@@ -198,12 +198,12 @@ lab9_json_serializer_tests: tests/lab9test/CMakeFiles/lab9_json_serializer_tests
 
 # fast build rule for target.
 lab9_json_serializer_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build
 .PHONY : lab9_json_serializer_tests/fast
 
 # Convenience name for target.
 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule
 .PHONY : tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/rule
 
 # Convenience name for target.
@@ -213,12 +213,12 @@ lab9_building_repository_tests: tests/lab9test/CMakeFiles/lab9_building_reposito
 
 # fast build rule for target.
 lab9_building_repository_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build
 .PHONY : lab9_building_repository_tests/fast
 
 # Convenience name for target.
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule
 
 # Convenience name for target.
@@ -228,7 +228,7 @@ lab9_all_tests: tests/lab9test/CMakeFiles/lab9_all_tests.dir/rule
 
 # fast build rule for target.
 lab9_all_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/build
 .PHONY : lab9_all_tests/fast
 
 BaseSerializerTest.o: BaseSerializerTest.cpp.o
@@ -237,8 +237,8 @@ BaseSerializerTest.o: BaseSerializerTest.cpp.o
 
 # target to build an object file
 BaseSerializerTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o
 .PHONY : BaseSerializerTest.cpp.o
 
 BaseSerializerTest.i: BaseSerializerTest.cpp.i
@@ -247,8 +247,8 @@ BaseSerializerTest.i: BaseSerializerTest.cpp.i
 
 # target to preprocess a source file
 BaseSerializerTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i
 .PHONY : BaseSerializerTest.cpp.i
 
 BaseSerializerTest.s: BaseSerializerTest.cpp.s
@@ -257,8 +257,8 @@ BaseSerializerTest.s: BaseSerializerTest.cpp.s
 
 # target to generate assembly for a file
 BaseSerializerTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_base_serializer_tests.dir/BaseSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s
 .PHONY : BaseSerializerTest.cpp.s
 
 BuildingRepositoryTest.o: BuildingRepositoryTest.cpp.o
@@ -267,8 +267,8 @@ BuildingRepositoryTest.o: BuildingRepositoryTest.cpp.o
 
 # target to build an object file
 BuildingRepositoryTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o
 .PHONY : BuildingRepositoryTest.cpp.o
 
 BuildingRepositoryTest.i: BuildingRepositoryTest.cpp.i
@@ -277,8 +277,8 @@ BuildingRepositoryTest.i: BuildingRepositoryTest.cpp.i
 
 # target to preprocess a source file
 BuildingRepositoryTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i
 .PHONY : BuildingRepositoryTest.cpp.i
 
 BuildingRepositoryTest.s: BuildingRepositoryTest.cpp.s
@@ -287,8 +287,8 @@ BuildingRepositoryTest.s: BuildingRepositoryTest.cpp.s
 
 # target to generate assembly for a file
 BuildingRepositoryTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_building_repository_tests.dir/BuildingRepositoryTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s
 .PHONY : BuildingRepositoryTest.cpp.s
 
 JsonSerializerTest.o: JsonSerializerTest.cpp.o
@@ -297,8 +297,8 @@ JsonSerializerTest.o: JsonSerializerTest.cpp.o
 
 # target to build an object file
 JsonSerializerTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o
 .PHONY : JsonSerializerTest.cpp.o
 
 JsonSerializerTest.i: JsonSerializerTest.cpp.i
@@ -307,8 +307,8 @@ JsonSerializerTest.i: JsonSerializerTest.cpp.i
 
 # target to preprocess a source file
 JsonSerializerTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i
 .PHONY : JsonSerializerTest.cpp.i
 
 JsonSerializerTest.s: JsonSerializerTest.cpp.s
@@ -317,8 +317,8 @@ JsonSerializerTest.s: JsonSerializerTest.cpp.s
 
 # target to generate assembly for a file
 JsonSerializerTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_json_serializer_tests.dir/JsonSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s
 .PHONY : JsonSerializerTest.cpp.s
 
 XmlSerializerTest.o: XmlSerializerTest.cpp.o
@@ -327,8 +327,8 @@ XmlSerializerTest.o: XmlSerializerTest.cpp.o
 
 # target to build an object file
 XmlSerializerTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o
 .PHONY : XmlSerializerTest.cpp.o
 
 XmlSerializerTest.i: XmlSerializerTest.cpp.i
@@ -337,8 +337,8 @@ XmlSerializerTest.i: XmlSerializerTest.cpp.i
 
 # target to preprocess a source file
 XmlSerializerTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i
 .PHONY : XmlSerializerTest.cpp.i
 
 XmlSerializerTest.s: XmlSerializerTest.cpp.s
@@ -347,8 +347,8 @@ XmlSerializerTest.s: XmlSerializerTest.cpp.s
 
 # target to generate assembly for a file
 XmlSerializerTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_xml_serializer_tests.dir/XmlSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab9test/CMakeFiles/lab9_all_tests.dir/build.make tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s
 .PHONY : XmlSerializerTest.cpp.s
 
 # Help Target
@@ -391,6 +391,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

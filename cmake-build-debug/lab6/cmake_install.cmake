@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/lab6
+# Install script for directory: /home/guest/CLionProjects/jimp22/lab6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/cmake_install.cmake")
 
 endif()
 

@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include lab1/factorial/CMakeFiles/factorial.dir/depend.make
@@ -59,16 +59,16 @@ include lab1/factorial/CMakeFiles/factorial.dir/flags.make
 
 lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o: lab1/factorial/CMakeFiles/factorial.dir/flags.make
 lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o: ../lab1/factorial/Factorial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/factorial.dir/Factorial.cpp.o -c /home/guest/CLionProjects/temp/lab1/factorial/Factorial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/factorial.dir/Factorial.cpp.o -c /home/guest/CLionProjects/jimp22/lab1/factorial/Factorial.cpp
 
 lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/factorial.dir/Factorial.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab1/factorial/Factorial.cpp > CMakeFiles/factorial.dir/Factorial.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab1/factorial/Factorial.cpp > CMakeFiles/factorial.dir/Factorial.cpp.i
 
 lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/factorial.dir/Factorial.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab1/factorial/Factorial.cpp -o CMakeFiles/factorial.dir/Factorial.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab1/factorial/Factorial.cpp -o CMakeFiles/factorial.dir/Factorial.cpp.s
 
 lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o.requires:
 
@@ -83,16 +83,16 @@ lab1/factorial/CMakeFiles/factorial.dir/Factorial.cpp.o.provides.build: lab1/fac
 
 lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o: lab1/factorial/CMakeFiles/factorial.dir/flags.make
 lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o: ../lab1/factorial/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/factorial.dir/main.cpp.o -c /home/guest/CLionProjects/temp/lab1/factorial/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/factorial.dir/main.cpp.o -c /home/guest/CLionProjects/jimp22/lab1/factorial/main.cpp
 
 lab1/factorial/CMakeFiles/factorial.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/factorial.dir/main.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab1/factorial/main.cpp > CMakeFiles/factorial.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab1/factorial/main.cpp > CMakeFiles/factorial.dir/main.cpp.i
 
 lab1/factorial/CMakeFiles/factorial.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/factorial.dir/main.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab1/factorial/main.cpp -o CMakeFiles/factorial.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab1/factorial/main.cpp -o CMakeFiles/factorial.dir/main.cpp.s
 
 lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o.requires:
 
@@ -118,8 +118,8 @@ lab1/factorial/factorial: lab1/factorial/CMakeFiles/factorial.dir/main.cpp.o
 lab1/factorial/factorial: lab1/factorial/CMakeFiles/factorial.dir/build.make
 lab1/factorial/factorial: lab1/factorial/liblibfactorial.a
 lab1/factorial/factorial: lab1/factorial/CMakeFiles/factorial.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable factorial"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/factorial.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable factorial"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/factorial.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 lab1/factorial/CMakeFiles/factorial.dir/build: lab1/factorial/factorial
@@ -132,10 +132,10 @@ lab1/factorial/CMakeFiles/factorial.dir/requires: lab1/factorial/CMakeFiles/fact
 .PHONY : lab1/factorial/CMakeFiles/factorial.dir/requires
 
 lab1/factorial/CMakeFiles/factorial.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial && $(CMAKE_COMMAND) -P CMakeFiles/factorial.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial && $(CMAKE_COMMAND) -P CMakeFiles/factorial.dir/cmake_clean.cmake
 .PHONY : lab1/factorial/CMakeFiles/factorial.dir/clean
 
 lab1/factorial/CMakeFiles/factorial.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/lab1/factorial /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial /home/guest/CLionProjects/temp/cmake-build-debug/lab1/factorial/CMakeFiles/factorial.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/lab1/factorial /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial /home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/factorial/CMakeFiles/factorial.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lab1/factorial/CMakeFiles/factorial.dir/depend
 

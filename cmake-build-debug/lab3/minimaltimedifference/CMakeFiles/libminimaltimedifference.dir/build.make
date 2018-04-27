@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/depend.make
@@ -59,16 +59,16 @@ include lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/flags
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o: lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/flags.make
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o: ../lab3/minimaltimedifference/MinimalTimeDifference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o -c /home/guest/CLionProjects/temp/lab3/minimaltimedifference/MinimalTimeDifference.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o -c /home/guest/CLionProjects/jimp22/lab3/minimaltimedifference/MinimalTimeDifference.cpp
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab3/minimaltimedifference/MinimalTimeDifference.cpp > CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab3/minimaltimedifference/MinimalTimeDifference.cpp > CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.i
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab3/minimaltimedifference/MinimalTimeDifference.cpp -o CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab3/minimaltimedifference/MinimalTimeDifference.cpp -o CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.s
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o.requires:
 
@@ -91,9 +91,9 @@ libminimaltimedifference_EXTERNAL_OBJECTS =
 lab3/minimaltimedifference/liblibminimaltimedifference.a: lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/MinimalTimeDifference.cpp.o
 lab3/minimaltimedifference/liblibminimaltimedifference.a: lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/build.make
 lab3/minimaltimedifference/liblibminimaltimedifference.a: lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblibminimaltimedifference.a"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -P CMakeFiles/libminimaltimedifference.dir/cmake_clean_target.cmake
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libminimaltimedifference.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblibminimaltimedifference.a"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -P CMakeFiles/libminimaltimedifference.dir/cmake_clean_target.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libminimaltimedifference.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/build: lab3/minimaltimedifference/liblibminimaltimedifference.a
@@ -105,10 +105,10 @@ lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/requires: lab
 .PHONY : lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/requires
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -P CMakeFiles/libminimaltimedifference.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference && $(CMAKE_COMMAND) -P CMakeFiles/libminimaltimedifference.dir/cmake_clean.cmake
 .PHONY : lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/clean
 
 lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/lab3/minimaltimedifference /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference /home/guest/CLionProjects/temp/cmake-build-debug/lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/lab3/minimaltimedifference /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference /home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lab3/minimaltimedifference/CMakeFiles/libminimaltimedifference.dir/depend
 

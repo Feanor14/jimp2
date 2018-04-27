@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab1test/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab1test/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ lab1_factorial_tests: tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/rule
 
 # fast build rule for target.
 lab1_factorial_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build
 .PHONY : lab1_factorial_tests/fast
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/rule
 
 # Convenience name for target.
@@ -183,12 +183,12 @@ lab1_double_base_palindrome_tests: tests/lab1test/CMakeFiles/lab1_double_base_pa
 
 # fast build rule for target.
 lab1_double_base_palindrome_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build
 .PHONY : lab1_double_base_palindrome_tests/fast
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/rule
 
 # Convenience name for target.
@@ -198,12 +198,12 @@ lab1_reverse_string_tests: tests/lab1test/CMakeFiles/lab1_reverse_string_tests.d
 
 # fast build rule for target.
 lab1_reverse_string_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build
 .PHONY : lab1_reverse_string_tests/fast
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/rule
 
 # Convenience name for target.
@@ -213,12 +213,12 @@ lab1_palindrome_tests: tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/rule
 
 # fast build rule for target.
 lab1_palindrome_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build
 .PHONY : lab1_palindrome_tests/fast
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/rule
 
 # Convenience name for target.
@@ -228,12 +228,12 @@ lab1_multiplication_table_tests: tests/lab1test/CMakeFiles/lab1_multiplication_t
 
 # fast build rule for target.
 lab1_multiplication_table_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build
 .PHONY : lab1_multiplication_table_tests/fast
 
 # Convenience name for target.
 tests/lab1test/CMakeFiles/lab1_all_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_all_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab1test/CMakeFiles/lab1_all_tests.dir/rule
 .PHONY : tests/lab1test/CMakeFiles/lab1_all_tests.dir/rule
 
 # Convenience name for target.
@@ -243,7 +243,7 @@ lab1_all_tests: tests/lab1test/CMakeFiles/lab1_all_tests.dir/rule
 
 # fast build rule for target.
 lab1_all_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/build
 .PHONY : lab1_all_tests/fast
 
 DoubleBasePalindromeTest.o: DoubleBasePalindromeTest.cpp.o
@@ -252,8 +252,8 @@ DoubleBasePalindromeTest.o: DoubleBasePalindromeTest.cpp.o
 
 # target to build an object file
 DoubleBasePalindromeTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.o
 .PHONY : DoubleBasePalindromeTest.cpp.o
 
 DoubleBasePalindromeTest.i: DoubleBasePalindromeTest.cpp.i
@@ -262,8 +262,8 @@ DoubleBasePalindromeTest.i: DoubleBasePalindromeTest.cpp.i
 
 # target to preprocess a source file
 DoubleBasePalindromeTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.i
 .PHONY : DoubleBasePalindromeTest.cpp.i
 
 DoubleBasePalindromeTest.s: DoubleBasePalindromeTest.cpp.s
@@ -272,8 +272,8 @@ DoubleBasePalindromeTest.s: DoubleBasePalindromeTest.cpp.s
 
 # target to generate assembly for a file
 DoubleBasePalindromeTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/DoubleBasePalindromeTest.cpp.s
 .PHONY : DoubleBasePalindromeTest.cpp.s
 
 FactorialTest.o: FactorialTest.cpp.o
@@ -282,8 +282,8 @@ FactorialTest.o: FactorialTest.cpp.o
 
 # target to build an object file
 FactorialTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.o
 .PHONY : FactorialTest.cpp.o
 
 FactorialTest.i: FactorialTest.cpp.i
@@ -292,8 +292,8 @@ FactorialTest.i: FactorialTest.cpp.i
 
 # target to preprocess a source file
 FactorialTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.i
 .PHONY : FactorialTest.cpp.i
 
 FactorialTest.s: FactorialTest.cpp.s
@@ -302,8 +302,8 @@ FactorialTest.s: FactorialTest.cpp.s
 
 # target to generate assembly for a file
 FactorialTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_factorial_tests.dir/FactorialTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/FactorialTest.cpp.s
 .PHONY : FactorialTest.cpp.s
 
 MultiplicationTableTest.o: MultiplicationTableTest.cpp.o
@@ -312,8 +312,8 @@ MultiplicationTableTest.o: MultiplicationTableTest.cpp.o
 
 # target to build an object file
 MultiplicationTableTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.o
 .PHONY : MultiplicationTableTest.cpp.o
 
 MultiplicationTableTest.i: MultiplicationTableTest.cpp.i
@@ -322,8 +322,8 @@ MultiplicationTableTest.i: MultiplicationTableTest.cpp.i
 
 # target to preprocess a source file
 MultiplicationTableTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.i
 .PHONY : MultiplicationTableTest.cpp.i
 
 MultiplicationTableTest.s: MultiplicationTableTest.cpp.s
@@ -332,8 +332,8 @@ MultiplicationTableTest.s: MultiplicationTableTest.cpp.s
 
 # target to generate assembly for a file
 MultiplicationTableTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_multiplication_table_tests.dir/MultiplicationTableTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/MultiplicationTableTest.cpp.s
 .PHONY : MultiplicationTableTest.cpp.s
 
 PalindromeTest.o: PalindromeTest.cpp.o
@@ -342,8 +342,8 @@ PalindromeTest.o: PalindromeTest.cpp.o
 
 # target to build an object file
 PalindromeTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.o
 .PHONY : PalindromeTest.cpp.o
 
 PalindromeTest.i: PalindromeTest.cpp.i
@@ -352,8 +352,8 @@ PalindromeTest.i: PalindromeTest.cpp.i
 
 # target to preprocess a source file
 PalindromeTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.i
 .PHONY : PalindromeTest.cpp.i
 
 PalindromeTest.s: PalindromeTest.cpp.s
@@ -362,8 +362,8 @@ PalindromeTest.s: PalindromeTest.cpp.s
 
 # target to generate assembly for a file
 PalindromeTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_palindrome_tests.dir/PalindromeTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/PalindromeTest.cpp.s
 .PHONY : PalindromeTest.cpp.s
 
 ReverseStringTest.o: ReverseStringTest.cpp.o
@@ -372,8 +372,8 @@ ReverseStringTest.o: ReverseStringTest.cpp.o
 
 # target to build an object file
 ReverseStringTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.o
 .PHONY : ReverseStringTest.cpp.o
 
 ReverseStringTest.i: ReverseStringTest.cpp.i
@@ -382,8 +382,8 @@ ReverseStringTest.i: ReverseStringTest.cpp.i
 
 # target to preprocess a source file
 ReverseStringTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.i
 .PHONY : ReverseStringTest.cpp.i
 
 ReverseStringTest.s: ReverseStringTest.cpp.s
@@ -392,8 +392,8 @@ ReverseStringTest.s: ReverseStringTest.cpp.s
 
 # target to generate assembly for a file
 ReverseStringTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_reverse_string_tests.dir/ReverseStringTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab1test/CMakeFiles/lab1_all_tests.dir/build.make tests/lab1test/CMakeFiles/lab1_all_tests.dir/ReverseStringTest.cpp.s
 .PHONY : ReverseStringTest.cpp.s
 
 # Help Target
@@ -440,6 +440,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

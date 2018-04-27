@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lab4/netsurl/CMakeFiles/netsurl.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/netsurl.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/netsurl.dir/rule
 .PHONY : lab4/netsurl/CMakeFiles/netsurl.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ netsurl: lab4/netsurl/CMakeFiles/netsurl.dir/rule
 
 # fast build rule for target.
 netsurl/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/build
 .PHONY : netsurl/fast
 
 # Convenience name for target.
 lab4/netsurl/CMakeFiles/libnetsurl.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/libnetsurl.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab4/netsurl/CMakeFiles/libnetsurl.dir/rule
 .PHONY : lab4/netsurl/CMakeFiles/libnetsurl.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ libnetsurl: lab4/netsurl/CMakeFiles/libnetsurl.dir/rule
 
 # fast build rule for target.
 libnetsurl/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/build
 .PHONY : libnetsurl/fast
 
 main.o: main.cpp.o
@@ -192,7 +192,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -201,7 +201,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -210,7 +210,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 netsurl.o: netsurl.cpp.o
@@ -219,8 +219,8 @@ netsurl.o: netsurl.cpp.o
 
 # target to build an object file
 netsurl.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.o
 .PHONY : netsurl.cpp.o
 
 netsurl.i: netsurl.cpp.i
@@ -229,8 +229,8 @@ netsurl.i: netsurl.cpp.i
 
 # target to preprocess a source file
 netsurl.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.i
 .PHONY : netsurl.cpp.i
 
 netsurl.s: netsurl.cpp.s
@@ -239,8 +239,8 @@ netsurl.s: netsurl.cpp.s
 
 # target to generate assembly for a file
 netsurl.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/netsurl.dir/build.make lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab4/netsurl/CMakeFiles/libnetsurl.dir/build.make lab4/netsurl/CMakeFiles/libnetsurl.dir/netsurl.cpp.s
 .PHONY : netsurl.cpp.s
 
 # Help Target
@@ -274,6 +274,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

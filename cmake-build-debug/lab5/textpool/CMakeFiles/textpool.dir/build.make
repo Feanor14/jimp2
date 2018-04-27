@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include lab5/textpool/CMakeFiles/textpool.dir/depend.make
@@ -57,32 +57,85 @@ include lab5/textpool/CMakeFiles/textpool.dir/progress.make
 # Include the compile flags for this target's objects.
 include lab5/textpool/CMakeFiles/textpool.dir/flags.make
 
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o: lab5/textpool/CMakeFiles/textpool.dir/flags.make
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o: ../lab5/textpool/TextPool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/textpool.dir/TextPool.cpp.o -c /home/guest/CLionProjects/jimp22/lab5/textpool/TextPool.cpp
+
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/textpool.dir/TextPool.cpp.i"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab5/textpool/TextPool.cpp > CMakeFiles/textpool.dir/TextPool.cpp.i
+
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/textpool.dir/TextPool.cpp.s"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab5/textpool/TextPool.cpp -o CMakeFiles/textpool.dir/TextPool.cpp.s
+
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.requires:
+
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.requires
+
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.provides: lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.requires
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.provides.build
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.provides
+
+lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.provides.build: lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o
+
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o: lab5/textpool/CMakeFiles/textpool.dir/flags.make
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o: ../lab5/textpool/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/textpool.dir/main.cpp.o -c /home/guest/CLionProjects/jimp22/lab5/textpool/main.cpp
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/textpool.dir/main.cpp.i"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab5/textpool/main.cpp > CMakeFiles/textpool.dir/main.cpp.i
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/textpool.dir/main.cpp.s"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab5/textpool/main.cpp -o CMakeFiles/textpool.dir/main.cpp.s
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.requires:
+
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.requires
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.provides: lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.requires
+	$(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.provides.build
+.PHONY : lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.provides
+
+lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.provides.build: lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o
+
+
 # Object files for target textpool
-textpool_OBJECTS =
+textpool_OBJECTS = \
+"CMakeFiles/textpool.dir/TextPool.cpp.o" \
+"CMakeFiles/textpool.dir/main.cpp.o"
 
 # External object files for target textpool
 textpool_EXTERNAL_OBJECTS =
 
+lab5/textpool/textpool: lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o
+lab5/textpool/textpool: lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o
 lab5/textpool/textpool: lab5/textpool/CMakeFiles/textpool.dir/build.make
 lab5/textpool/textpool: lab5/textpool/liblibtextpool.a
 lab5/textpool/textpool: lab5/textpool/CMakeFiles/textpool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX executable textpool"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/textpool.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable textpool"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/textpool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 lab5/textpool/CMakeFiles/textpool.dir/build: lab5/textpool/textpool
 
 .PHONY : lab5/textpool/CMakeFiles/textpool.dir/build
 
-lab5/textpool/CMakeFiles/textpool.dir/requires:
+lab5/textpool/CMakeFiles/textpool.dir/requires: lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o.requires
+lab5/textpool/CMakeFiles/textpool.dir/requires: lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o.requires
 
 .PHONY : lab5/textpool/CMakeFiles/textpool.dir/requires
 
 lab5/textpool/CMakeFiles/textpool.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool && $(CMAKE_COMMAND) -P CMakeFiles/textpool.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool && $(CMAKE_COMMAND) -P CMakeFiles/textpool.dir/cmake_clean.cmake
 .PHONY : lab5/textpool/CMakeFiles/textpool.dir/clean
 
 lab5/textpool/CMakeFiles/textpool.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/lab5/textpool /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool /home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool/CMakeFiles/textpool.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/lab5/textpool /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool/CMakeFiles/textpool.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lab5/textpool/CMakeFiles/textpool.dir/depend
 

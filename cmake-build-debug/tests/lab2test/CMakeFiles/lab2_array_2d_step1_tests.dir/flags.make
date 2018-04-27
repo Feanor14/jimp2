@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/include -I/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest -I/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/include -I/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock -I/home/guest/CLionProjects/temp/tests/lib/stringutility/. 
+CXX_INCLUDES = -I/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googletest/include -I/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googletest -I/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googlemock/include -I/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googlemock -I/home/guest/CLionProjects/jimp22/tests/lib/stringutility/. 
 

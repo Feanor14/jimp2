@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/lab5/memorychunk/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/memorychunk/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lab5/memorychunk/CMakeFiles/memorychunk.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
 .PHONY : lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ memorychunk: lab5/memorychunk/CMakeFiles/memorychunk.dir/rule
 
 # fast build rule for target.
 memorychunk/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/build
 .PHONY : memorychunk/fast
 
 # Convenience name for target.
 lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
 .PHONY : lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ libmemorychunk: lab5/memorychunk/CMakeFiles/libmemorychunk.dir/rule
 
 # fast build rule for target.
 libmemorychunk/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build
 .PHONY : libmemorychunk/fast
 
 MemoryChunk.o: MemoryChunk.cpp.o
@@ -192,7 +192,8 @@ MemoryChunk.o: MemoryChunk.cpp.o
 
 # target to build an object file
 MemoryChunk.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/MemoryChunk.cpp.o
 .PHONY : MemoryChunk.cpp.o
 
 MemoryChunk.i: MemoryChunk.cpp.i
@@ -201,7 +202,8 @@ MemoryChunk.i: MemoryChunk.cpp.i
 
 # target to preprocess a source file
 MemoryChunk.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/MemoryChunk.cpp.i
 .PHONY : MemoryChunk.cpp.i
 
 MemoryChunk.s: MemoryChunk.cpp.s
@@ -210,7 +212,8 @@ MemoryChunk.s: MemoryChunk.cpp.s
 
 # target to generate assembly for a file
 MemoryChunk.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/MemoryChunk.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/MemoryChunk.cpp.s
 .PHONY : MemoryChunk.cpp.s
 
 main.o: main.cpp.o
@@ -219,7 +222,8 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -228,7 +232,8 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -237,7 +242,8 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/memorychunk.dir/build.make lab5/memorychunk/CMakeFiles/memorychunk.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/memorychunk/CMakeFiles/libmemorychunk.dir/build.make lab5/memorychunk/CMakeFiles/libmemorychunk.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -271,6 +277,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

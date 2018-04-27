@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp
+# Install script for directory: /home/guest/CLionProjects/jimp22
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,21 +39,21 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab1/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab2/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab3/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab4/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab5/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab6/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab7/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab8/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab9/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab10/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab11/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab12/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/lab13/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/tests/cmake_install.cmake")
-  include("/home/guest/CLionProjects/temp/cmake-build-debug/example/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab1/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab2/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab7/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab8/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab9/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab11/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab13/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/example/cmake_install.cmake")
 
 endif()
 
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/guest/CLionProjects/temp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/guest/CLionProjects/jimp22/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

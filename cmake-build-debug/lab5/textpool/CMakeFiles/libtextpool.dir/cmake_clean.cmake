@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/libtextpool.dir/TextPool.cpp.o"
+  "CMakeFiles/libtextpool.dir/main.cpp.o"
   "liblibtextpool.pdb"
   "liblibtextpool.a"
 )

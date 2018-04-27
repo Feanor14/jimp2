@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/lab5/textpool/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/lab5/textpool/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lab5/textpool/CMakeFiles/textpool.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/textpool.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/textpool.dir/rule
 .PHONY : lab5/textpool/CMakeFiles/textpool.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ textpool: lab5/textpool/CMakeFiles/textpool.dir/rule
 
 # fast build rule for target.
 textpool/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/build
 .PHONY : textpool/fast
 
 # Convenience name for target.
 lab5/textpool/CMakeFiles/libtextpool.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/libtextpool.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 lab5/textpool/CMakeFiles/libtextpool.dir/rule
 .PHONY : lab5/textpool/CMakeFiles/libtextpool.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ libtextpool: lab5/textpool/CMakeFiles/libtextpool.dir/rule
 
 # fast build rule for target.
 libtextpool/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/build
 .PHONY : libtextpool/fast
 
 TextPool.o: TextPool.cpp.o
@@ -192,7 +192,8 @@ TextPool.o: TextPool.cpp.o
 
 # target to build an object file
 TextPool.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.o
 .PHONY : TextPool.cpp.o
 
 TextPool.i: TextPool.cpp.i
@@ -201,7 +202,8 @@ TextPool.i: TextPool.cpp.i
 
 # target to preprocess a source file
 TextPool.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.i
 .PHONY : TextPool.cpp.i
 
 TextPool.s: TextPool.cpp.s
@@ -210,8 +212,39 @@ TextPool.s: TextPool.cpp.s
 
 # target to generate assembly for a file
 TextPool.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/TextPool.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/TextPool.cpp.s
 .PHONY : TextPool.cpp.s
+
+main.o: main.cpp.o
+
+.PHONY : main.o
+
+# target to build an object file
+main.cpp.o:
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/main.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/main.cpp.o
+.PHONY : main.cpp.o
+
+main.i: main.cpp.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/textpool.dir/build.make lab5/textpool/CMakeFiles/textpool.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f lab5/textpool/CMakeFiles/libtextpool.dir/build.make lab5/textpool/CMakeFiles/libtextpool.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -230,6 +263,9 @@ help:
 	@echo "... TextPool.o"
 	@echo "... TextPool.i"
 	@echo "... TextPool.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 
@@ -241,6 +277,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

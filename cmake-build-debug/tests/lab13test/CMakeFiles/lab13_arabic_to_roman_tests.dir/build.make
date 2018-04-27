@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/flags.make
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o: tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/flags.make
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o: ../tests/lab13test/ArabicToRomanTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab13test/ArabicToRomanTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab13test/ArabicToRomanTest.cpp
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab13test/ArabicToRomanTest.cpp > CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab13test/ArabicToRomanTest.cpp > CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.i
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab13test/ArabicToRomanTest.cpp -o CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab13test/ArabicToRomanTest.cpp -o CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.s
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/ArabicToRomanTest.cpp.o.requires:
 
@@ -101,8 +101,8 @@ tests/lab13test/lab13_arabic_to_roman_tests: tests/lib/gtest-1.8.0/googlemock/gt
 tests/lab13test/lab13_arabic_to_roman_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab13test/lab13_arabic_to_roman_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
 tests/lab13test/lab13_arabic_to_roman_tests: tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable lab13_arabic_to_roman_tests"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab13_arabic_to_roman_tests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable lab13_arabic_to_roman_tests"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab13_arabic_to_roman_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/build: tests/lab13test/lab13_arabic_to_roman_tests
@@ -114,10 +114,10 @@ tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/requires: tests/lab13
 .PHONY : tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/requires
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test && $(CMAKE_COMMAND) -P CMakeFiles/lab13_arabic_to_roman_tests.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test && $(CMAKE_COMMAND) -P CMakeFiles/lab13_arabic_to_roman_tests.dir/cmake_clean.cmake
 .PHONY : tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/clean
 
 tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/tests/lab13test /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/tests/lab13test /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/lab13test/CMakeFiles/lab13_arabic_to_roman_tests.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/tests/lib/stringutility
+# Install script for directory: /home/guest/CLionProjects/jimp22/tests/lib/stringutility
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

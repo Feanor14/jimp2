@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/memleak/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/memleak/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 tests/lib/memleak/CMakeFiles/memleak.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/CMakeFiles/memleak.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lib/memleak/CMakeFiles/memleak.dir/rule
 .PHONY : tests/lib/memleak/CMakeFiles/memleak.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ memleak: tests/lib/memleak/CMakeFiles/memleak.dir/rule
 
 # fast build rule for target.
 memleak/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/build
 .PHONY : memleak/fast
 
 MemLeak.o: MemLeak.cpp.o
@@ -177,7 +177,7 @@ MemLeak.o: MemLeak.cpp.o
 
 # target to build an object file
 MemLeak.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.o
 .PHONY : MemLeak.cpp.o
 
 MemLeak.i: MemLeak.cpp.i
@@ -186,7 +186,7 @@ MemLeak.i: MemLeak.cpp.i
 
 # target to preprocess a source file
 MemLeak.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.i
 .PHONY : MemLeak.cpp.i
 
 MemLeak.s: MemLeak.cpp.s
@@ -195,7 +195,7 @@ MemLeak.s: MemLeak.cpp.s
 
 # target to generate assembly for a file
 MemLeak.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeak.cpp.s
 .PHONY : MemLeak.cpp.s
 
 MemLeakTest.o: MemLeakTest.cpp.o
@@ -204,7 +204,7 @@ MemLeakTest.o: MemLeakTest.cpp.o
 
 # target to build an object file
 MemLeakTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.o
 .PHONY : MemLeakTest.cpp.o
 
 MemLeakTest.i: MemLeakTest.cpp.i
@@ -213,7 +213,7 @@ MemLeakTest.i: MemLeakTest.cpp.i
 
 # target to preprocess a source file
 MemLeakTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.i
 .PHONY : MemLeakTest.cpp.i
 
 MemLeakTest.s: MemLeakTest.cpp.s
@@ -222,7 +222,7 @@ MemLeakTest.s: MemLeakTest.cpp.s
 
 # target to generate assembly for a file
 MemLeakTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lib/memleak/CMakeFiles/memleak.dir/build.make tests/lib/memleak/CMakeFiles/memleak.dir/MemLeakTest.cpp.s
 .PHONY : MemLeakTest.cpp.s
 
 # Help Target
@@ -255,6 +255,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

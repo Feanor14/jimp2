@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/guest/CLionProjects/temp/lab4/netsurl/. 
+CXX_INCLUDES = -I/home/guest/CLionProjects/jimp22/lab4/netsurl/. 
 

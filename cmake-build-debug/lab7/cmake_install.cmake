@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/lab7
+# Install script for directory: /home/guest/CLionProjects/jimp22/lab7
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,11 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab7/iterable/cmake_install.cmake")
+
 endif()
 

@@ -5,26 +5,26 @@
 		<Option title="lab6"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\lab6\;CMake Files\lab6\academia\;CMake Files\lab6\wordcounter\;CMake Files\lab3\;CMake Files\lab3\ccounter\;CMake Files\lab3\smarttree\;CMake Files\lab3\tinyurl\;CMake Files\lab3\minimaltimedifference\;CMake Files\example\;CMake Files\example\examplelibrary\;CMake Files\lab1\;CMake Files\lab1\factorial\;CMake Files\tests\;CMake Files\tests\lib\;CMake Files\tests\lib\gtest-1.8.0\;CMake Files\tests\lib\gtest-1.8.0\googlemock\;CMake Files\tests\lib\gtest-1.8.0\googletest\;CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\;CMake Files\tests\lib\stringutility\;CMake Files\tests\lib\memleak\;CMake Files\tests\lab1test\;CMake Files\tests\lab2test\;CMake Files\tests\lab3test\;CMake Files\tests\lab4test\;CMake Files\tests\lab5test\;CMake Files\tests\lab6test\;CMake Files\tests\lab7test\;CMake Files\tests\lab8test\;CMake Files\tests\lab9test\;CMake Files\tests\lab10test\;CMake Files\tests\lab11test\;CMake Files\tests\lab12test\;CMake Files\tests\lab13test\;CMake Files\tests\exampletest\;CMake Files\lab2\;CMake Files\lab4\;CMake Files\lab4\netsurl\;CMake Files\lab5\;CMake Files\lab5\matrix\;CMake Files\lab5\memorychunk\;CMake Files\lab5\textpool\;CMake Files\lab7\;CMake Files\lab8\;CMake Files\lab9\;CMake Files\lab10\;CMake Files\lab11\;CMake Files\lab12\;CMake Files\lab13\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lab6\;CMake Files\lab6\academia\;CMake Files\lab6\wordcounter\;CMake Files\lab3\;CMake Files\lab3\ccounter\;CMake Files\lab3\smarttree\;CMake Files\lab3\tinyurl\;CMake Files\lab3\minimaltimedifference\;CMake Files\example\;CMake Files\example\examplelibrary\;CMake Files\lab1\;CMake Files\lab1\factorial\;CMake Files\tests\;CMake Files\tests\lib\;CMake Files\tests\lib\gtest-1.8.0\;CMake Files\tests\lib\gtest-1.8.0\googlemock\;CMake Files\tests\lib\gtest-1.8.0\googletest\;CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\;CMake Files\tests\lib\stringutility\;CMake Files\tests\lib\memleak\;CMake Files\tests\lab1test\;CMake Files\tests\lab2test\;CMake Files\tests\lab3test\;CMake Files\tests\lab4test\;CMake Files\tests\lab5test\;CMake Files\tests\lab6test\;CMake Files\tests\lab7test\;CMake Files\tests\lab8test\;CMake Files\tests\lab9test\;CMake Files\tests\lab10test\;CMake Files\tests\lab11test\;CMake Files\tests\lab12test\;CMake Files\tests\lab13test\;CMake Files\tests\exampletest\;CMake Files\lab7\;CMake Files\lab7\iterable\;CMake Files\lab2\;CMake Files\lab4\;CMake Files\lab4\netsurl\;CMake Files\lab5\;CMake Files\lab5\matrix\;CMake Files\lab5\memorychunk\;CMake Files\lab5\textpool\;CMake Files\lab8\;CMake Files\lab9\;CMake Files\lab10\;CMake Files\lab11\;CMake Files\lab12\;CMake Files\lab13\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="wordcounter">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/wordcounter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/wordcounter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/wordcounter/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/wordcounter/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -35,20 +35,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 wordcounter"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 wordcounter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="wordcounter/fast">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/wordcounter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/wordcounter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/wordcounter/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/wordcounter/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -59,20 +59,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 wordcounter/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 wordcounter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="libwordcounter">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/liblibwordcounter.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/liblibwordcounter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/wordcounter/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/wordcounter/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -83,20 +83,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 libwordcounter"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 libwordcounter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="libwordcounter/fast">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/liblibwordcounter.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/liblibwordcounter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/wordcounter/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/wordcounter/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -107,20 +107,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 libwordcounter/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 libwordcounter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="academia">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/academia" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/academia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/academia/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/academia/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -131,20 +131,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 academia"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 academia"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="academia/fast">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/academia" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/academia" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/academia/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/academia/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -155,20 +155,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 academia/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 academia/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="libacademia">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/liblibacademia.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/liblibacademia.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/academia/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/academia/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -179,20 +179,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 libacademia"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 libacademia"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="libacademia/fast">
-				<Option output="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/liblibacademia.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia"/>
+				<Option output="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/liblibacademia.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/guest/CLionProjects/temp/lab6/academia/."/>
+					<Add directory="/home/guest/CLionProjects/jimp22/lab6/academia/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -203,167 +203,181 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 libacademia/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/temp/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 libacademia/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/academia/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/wordcounter/WordCounter.cpp">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/academia/Academia.cpp">
+			<Option target="academia"/>
+			<Option target="libacademia"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/academia/Academia.h">
+			<Option target="libacademia"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/academia/main.cpp">
+			<Option target="academia"/>
+			<Option target="libacademia"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/wordcounter/WordCounter.cpp">
 			<Option target="wordcounter"/>
 			<Option target="libwordcounter"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/wordcounter/WordCounter.h">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/wordcounter/WordCounter.h">
 			<Option target="wordcounter"/>
 			<Option target="libwordcounter"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/wordcounter/main.cpp">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/wordcounter/main.cpp">
 			<Option target="wordcounter"/>
 			<Option target="libwordcounter"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab6\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/academia/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/academia/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab6\academia\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab6/wordcounter/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab6/wordcounter/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab6\wordcounter\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab3/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab3\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab3/ccounter/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab3/ccounter/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab3\ccounter\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab3/smarttree/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab3/smarttree/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab3\smarttree\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab3/tinyurl/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab3/tinyurl/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab3\tinyurl\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab3/minimaltimedifference/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab3/minimaltimedifference/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab3\minimaltimedifference\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/example/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/example/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\example\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/example/examplelibrary/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/example/examplelibrary/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\example\examplelibrary\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab1/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab1\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab1/factorial/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab1/factorial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab1\factorial\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googlemock/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googlemock\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\tests\lib\gtest-1.8.0\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/stringutility/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/stringutility/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lib\stringutility\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lib/memleak/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lib/memleak/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lib\memleak\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab1test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab1test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab1test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab2test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab2test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab2test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab3test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab3test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab3test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab4test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab4test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab4test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab5test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab5test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab5test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab6test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab6test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab6test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab7test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab7test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab7test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab8test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab8test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab8test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab9test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab9test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab9test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab10test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab10test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab10test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab11test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab11test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab11test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab12test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab12test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab12test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/lab13test/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/lab13test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\lab13test\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/tests/exampletest/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/tests/exampletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\tests\exampletest\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab2/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab2\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab4/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab4/netsurl/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab5/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab5/matrix/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\matrix\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab5/memorychunk/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab5/textpool/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\lab5\textpool\"/>
-		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab7/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab7/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab7\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab8/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab7/iterable/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab7\iterable\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab2\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab4\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab4/netsurl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab4\netsurl\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab5/matrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\matrix\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab5/memorychunk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\memorychunk\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab5/textpool/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lab5\textpool\"/>
+		</Unit>
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab8/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab8\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab9/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab9/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab9\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab10/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab10/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab10\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab11/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab11/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab11\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab12/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab12/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab12\"/>
 		</Unit>
-		<Unit filename="/home/guest/CLionProjects/temp/lab13/CMakeLists.txt">
+		<Unit filename="/home/guest/CLionProjects/jimp22/lab13/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lab13\"/>
 		</Unit>
 	</Project>

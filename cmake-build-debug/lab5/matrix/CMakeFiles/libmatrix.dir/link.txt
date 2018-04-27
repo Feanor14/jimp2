@@ -1,2 +1,2 @@
-/usr/bin/ar qc liblibmatrix.a  CMakeFiles/libmatrix.dir/Matrix.cpp.o
+/usr/bin/ar qc liblibmatrix.a  CMakeFiles/libmatrix.dir/Matrix.cpp.o CMakeFiles/libmatrix.dir/main.cpp.o
 /usr/bin/ranlib liblibmatrix.a

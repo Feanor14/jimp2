@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include example/examplelibrary/CMakeFiles/libexamplelibrary.dir/depend.make
@@ -59,16 +59,16 @@ include example/examplelibrary/CMakeFiles/libexamplelibrary.dir/flags.make
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o: example/examplelibrary/CMakeFiles/libexamplelibrary.dir/flags.make
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o: ../example/examplelibrary/ExampleLibrary.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o -c /home/guest/CLionProjects/temp/example/examplelibrary/ExampleLibrary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o -c /home/guest/CLionProjects/jimp22/example/examplelibrary/ExampleLibrary.cpp
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/example/examplelibrary/ExampleLibrary.cpp > CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/example/examplelibrary/ExampleLibrary.cpp > CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.i
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/example/examplelibrary/ExampleLibrary.cpp -o CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/example/examplelibrary/ExampleLibrary.cpp -o CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.s
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o.requires:
 
@@ -91,9 +91,9 @@ libexamplelibrary_EXTERNAL_OBJECTS =
 example/examplelibrary/liblibexamplelibrary.a: example/examplelibrary/CMakeFiles/libexamplelibrary.dir/ExampleLibrary.cpp.o
 example/examplelibrary/liblibexamplelibrary.a: example/examplelibrary/CMakeFiles/libexamplelibrary.dir/build.make
 example/examplelibrary/liblibexamplelibrary.a: example/examplelibrary/CMakeFiles/libexamplelibrary.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblibexamplelibrary.a"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -P CMakeFiles/libexamplelibrary.dir/cmake_clean_target.cmake
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libexamplelibrary.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library liblibexamplelibrary.a"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -P CMakeFiles/libexamplelibrary.dir/cmake_clean_target.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libexamplelibrary.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/build: example/examplelibrary/liblibexamplelibrary.a
@@ -105,10 +105,10 @@ example/examplelibrary/CMakeFiles/libexamplelibrary.dir/requires: example/exampl
 .PHONY : example/examplelibrary/CMakeFiles/libexamplelibrary.dir/requires
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -P CMakeFiles/libexamplelibrary.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary && $(CMAKE_COMMAND) -P CMakeFiles/libexamplelibrary.dir/cmake_clean.cmake
 .PHONY : example/examplelibrary/CMakeFiles/libexamplelibrary.dir/clean
 
 example/examplelibrary/CMakeFiles/libexamplelibrary.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/example/examplelibrary /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary /home/guest/CLionProjects/temp/cmake-build-debug/example/examplelibrary/CMakeFiles/libexamplelibrary.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/example/examplelibrary /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary /home/guest/CLionProjects/jimp22/cmake-build-debug/example/examplelibrary/CMakeFiles/libexamplelibrary.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : example/examplelibrary/CMakeFiles/libexamplelibrary.dir/depend
 

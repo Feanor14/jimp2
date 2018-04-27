@@ -1,10 +1,11 @@
-/home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/guest/CLionProjects/temp
+/home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/guest/CLionProjects/jimp22
 add_subdirectory_if_exists NETSURL EXISTS!
 add_subdirectory_if_exists MATRIX EXISTS!
 add_subdirectory_if_exists MEMORYCHUNK EXISTS!
 add_subdirectory_if_exists TEXTPOOL EXISTS!
 add_subdirectory_if_exists WORDCOUNTER EXISTS!
 add_subdirectory_if_exists ACADEMIA EXISTS!
+add_subdirectory_if_exists ITERABLE EXISTS!
 -- lab1test::HAVE_DIR_PALINDROME:  
 add_gtest_with_memleak target: lab2_array_2d_step1_tests
 add_gtest_with_memleak src: Array2dStep1Test.cpp;
@@ -229,47 +230,5 @@ add_gtest_with_memleak target: lab13_roman_to_arabic_tests
 add_gtest_with_memleak src: RomanToArabicTest.cpp;
 add_gtest_with_memleak lib: libarabicroman
 -- Configuring done
-CMake Error at lab5/matrix/CMakeLists.txt:9 (add_executable):
-  Cannot find source file:
-
-    main.cpp
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
-  .hxx .in .txx
-
-
-CMake Error at lab5/memorychunk/CMakeLists.txt:6 (add_library):
-  Cannot find source file:
-
-    MemoryChunk.h,
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
-  .hxx .in .txx
-
-
-CMake Error at lab5/textpool/CMakeLists.txt:10 (add_executable):
-  Cannot find source file:
-
-    main.cpp
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
-  .hxx .in .txx
-
-
-CMake Error at lab6/academia/CMakeLists.txt:10 (add_executable):
-  Cannot find source file:
-
-    academia.cpp
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
-  .hxx .in .txx
-
-
-CMake Error: Cannot determine link language for target "libmemorychunk".
-CMake Error: CMake can not determine linker language for target: libmemorychunk
-CMake Error: CMake can not determine linker language for target: academia
-CMake Error: Cannot determine link language for target "academia".
-CMake Error: Cannot determine link language for target "libacademia".
-CMake Error: CMake can not determine linker language for target: libacademia
 -- Generating done
--- Build files have been written to: /home/guest/CLionProjects/temp/cmake-build-debug
+-- Build files have been written to: /home/guest/CLionProjects/jimp22/cmake-build-debug

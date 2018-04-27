@@ -48,10 +48,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab11test/CMakeFiles/progress.marks
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab11test/CMakeFiles/progress.marks
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/clean
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/preinstall
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule
 .PHONY : tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ lab11_all_tests: tests/lab11test/CMakeFiles/lab11_all_tests.dir/rule
 
 # fast build rule for target.
 lab11_all_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/build
 .PHONY : lab11_all_tests/fast
 
 # Convenience name for target.
 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule
 .PHONY : tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ lab11_factory_method_tests: tests/lab11test/CMakeFiles/lab11_factory_method_test
 
 # fast build rule for target.
 lab11_factory_method_tests/fast:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build
 .PHONY : lab11_factory_method_tests/fast
 
 FactoryMethodTest.o: FactoryMethodTest.cpp.o
@@ -192,8 +192,8 @@ FactoryMethodTest.o: FactoryMethodTest.cpp.o
 
 # target to build an object file
 FactoryMethodTest.cpp.o:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.o
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.o
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.o
 .PHONY : FactoryMethodTest.cpp.o
 
 FactoryMethodTest.i: FactoryMethodTest.cpp.i
@@ -202,8 +202,8 @@ FactoryMethodTest.i: FactoryMethodTest.cpp.i
 
 # target to preprocess a source file
 FactoryMethodTest.cpp.i:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.i
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.i
 .PHONY : FactoryMethodTest.cpp.i
 
 FactoryMethodTest.s: FactoryMethodTest.cpp.s
@@ -212,8 +212,8 @@ FactoryMethodTest.s: FactoryMethodTest.cpp.s
 
 # target to generate assembly for a file
 FactoryMethodTest.cpp.s:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.s
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_all_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_all_tests.dir/FactoryMethodTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(MAKE) -f tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/build.make tests/lab11test/CMakeFiles/lab11_factory_method_tests.dir/FactoryMethodTest.cpp.s
 .PHONY : FactoryMethodTest.cpp.s
 
 # Help Target
@@ -244,6 +244,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

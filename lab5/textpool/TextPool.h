@@ -10,6 +10,7 @@
 #include <string>
 #include <string_view>
 #include <set>
+#include <experimental/string_view>
 
 namespace pool {
     class TextPool {

@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/guest/CLionProjects/temp/lab5/matrix/. 
+CXX_INCLUDES = -I/home/guest/CLionProjects/jimp22/lab5/matrix/. 
 

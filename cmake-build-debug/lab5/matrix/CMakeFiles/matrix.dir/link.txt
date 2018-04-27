@@ -1,1 +1,1 @@
-/usr/bin/c++  -g     -o matrix liblibmatrix.a 
+/usr/bin/c++  -g   CMakeFiles/matrix.dir/Matrix.cpp.o CMakeFiles/matrix.dir/main.cpp.o  -o matrix liblibmatrix.a 

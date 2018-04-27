@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guest/CLionProjects/temp/tests/lab1test/DoubleBasePalindromeTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab1test/DoubleBasePalindromeTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab1test/CMakeFiles/lab1_double_base_palindrome_tests.dir/DoubleBasePalindromeTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,10 +18,10 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

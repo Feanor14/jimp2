@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guest/CLionProjects/temp/tests/lab8test/MicroDvdCorrectCasesTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab8test/MicroDvdErrorCasesTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab8test/MovieSubtitlesTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab8test/PeselTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab8test/SubRipCorrectCasesTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab8test/SubRipErrorCasesTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdCorrectCasesTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdCorrectCasesTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/MicroDvdErrorCasesTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MicroDvdErrorCasesTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/MovieSubtitlesTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/MovieSubtitlesTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/PeselTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/PeselTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/SubRipCorrectCasesTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipCorrectCasesTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab8test/SubRipErrorCasesTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab8test/CMakeFiles/lab8_all_tests.dir/SubRipErrorCasesTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -25,12 +25,12 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

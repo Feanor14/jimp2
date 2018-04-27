@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include lab4/netsurl/CMakeFiles/netsurl.dir/depend.make
@@ -59,16 +59,16 @@ include lab4/netsurl/CMakeFiles/netsurl.dir/flags.make
 
 lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o: lab4/netsurl/CMakeFiles/netsurl.dir/flags.make
 lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o: ../lab4/netsurl/netsurl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/netsurl.dir/netsurl.cpp.o -c /home/guest/CLionProjects/temp/lab4/netsurl/netsurl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/netsurl.dir/netsurl.cpp.o -c /home/guest/CLionProjects/jimp22/lab4/netsurl/netsurl.cpp
 
 lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/netsurl.dir/netsurl.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab4/netsurl/netsurl.cpp > CMakeFiles/netsurl.dir/netsurl.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab4/netsurl/netsurl.cpp > CMakeFiles/netsurl.dir/netsurl.cpp.i
 
 lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/netsurl.dir/netsurl.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab4/netsurl/netsurl.cpp -o CMakeFiles/netsurl.dir/netsurl.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab4/netsurl/netsurl.cpp -o CMakeFiles/netsurl.dir/netsurl.cpp.s
 
 lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o.requires:
 
@@ -83,16 +83,16 @@ lab4/netsurl/CMakeFiles/netsurl.dir/netsurl.cpp.o.provides.build: lab4/netsurl/C
 
 lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o: lab4/netsurl/CMakeFiles/netsurl.dir/flags.make
 lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o: ../lab4/netsurl/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/netsurl.dir/main.cpp.o -c /home/guest/CLionProjects/temp/lab4/netsurl/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/netsurl.dir/main.cpp.o -c /home/guest/CLionProjects/jimp22/lab4/netsurl/main.cpp
 
 lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/netsurl.dir/main.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/lab4/netsurl/main.cpp > CMakeFiles/netsurl.dir/main.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/lab4/netsurl/main.cpp > CMakeFiles/netsurl.dir/main.cpp.i
 
 lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/netsurl.dir/main.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/lab4/netsurl/main.cpp -o CMakeFiles/netsurl.dir/main.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/lab4/netsurl/main.cpp -o CMakeFiles/netsurl.dir/main.cpp.s
 
 lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o.requires:
 
@@ -118,8 +118,8 @@ lab4/netsurl/netsurl: lab4/netsurl/CMakeFiles/netsurl.dir/main.cpp.o
 lab4/netsurl/netsurl: lab4/netsurl/CMakeFiles/netsurl.dir/build.make
 lab4/netsurl/netsurl: lab4/netsurl/liblibnetsurl.a
 lab4/netsurl/netsurl: lab4/netsurl/CMakeFiles/netsurl.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable netsurl"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/netsurl.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable netsurl"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/netsurl.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 lab4/netsurl/CMakeFiles/netsurl.dir/build: lab4/netsurl/netsurl
@@ -132,10 +132,10 @@ lab4/netsurl/CMakeFiles/netsurl.dir/requires: lab4/netsurl/CMakeFiles/netsurl.di
 .PHONY : lab4/netsurl/CMakeFiles/netsurl.dir/requires
 
 lab4/netsurl/CMakeFiles/netsurl.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl && $(CMAKE_COMMAND) -P CMakeFiles/netsurl.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl && $(CMAKE_COMMAND) -P CMakeFiles/netsurl.dir/cmake_clean.cmake
 .PHONY : lab4/netsurl/CMakeFiles/netsurl.dir/clean
 
 lab4/netsurl/CMakeFiles/netsurl.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/lab4/netsurl /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl /home/guest/CLionProjects/temp/cmake-build-debug/lab4/netsurl/CMakeFiles/netsurl.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/lab4/netsurl /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl /home/guest/CLionProjects/jimp22/cmake-build-debug/lab4/netsurl/CMakeFiles/netsurl.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : lab4/netsurl/CMakeFiles/netsurl.dir/depend
 

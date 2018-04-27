@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googletest/src/gtest-all.cc" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o"
-  "/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/src/gmock-all.cc" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o"
-  "/home/guest/CLionProjects/temp/tests/lib/gtest-1.8.0/googlemock/src/gmock_main.cc" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+  "/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googletest/src/gtest-all.cc" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o"
+  "/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googlemock/src/gmock-all.cc" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o"
+  "/home/guest/CLionProjects/jimp22/tests/lib/gtest-1.8.0/googlemock/src/gmock_main.cc" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

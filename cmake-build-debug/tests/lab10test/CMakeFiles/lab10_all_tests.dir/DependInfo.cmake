@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guest/CLionProjects/temp/tests/lab10test/AlgoStep1Test.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/AlgoStep2Test.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/AlgoStep3Test.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/AlgoStep4Test.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/AlgoStep5Test.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/ScheduleTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o"
-  "/home/guest/CLionProjects/temp/tests/lab10test/SchedulerTest.cpp" "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep1Test.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep2Test.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep3Test.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep4Test.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep5Test.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/ScheduleTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o"
+  "/home/guest/CLionProjects/jimp22/tests/lab10test/SchedulerTest.cpp" "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -26,12 +26,12 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
-  "/home/guest/CLionProjects/temp/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/gtest-1.8.0/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/memleak/CMakeFiles/memleak.dir/DependInfo.cmake"
+  "/home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lib/stringutility/CMakeFiles/stringutility.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

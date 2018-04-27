@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include tests/lab10test/CMakeFiles/lab10_all_tests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o: ../tests/lab10test/AlgoStep5Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep5Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep5Test.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep5Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep5Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep5Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep5Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o.requires:
 
@@ -83,16 +83,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep5Test.cpp.o.provides.buil
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o: ../tests/lab10test/AlgoStep4Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep4Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep4Test.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep4Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep4Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep4Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep4Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o.requires:
 
@@ -107,16 +107,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep4Test.cpp.o.provides.buil
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o: ../tests/lab10test/AlgoStep3Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep3Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep3Test.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep3Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep3Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep3Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep3Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o.requires:
 
@@ -131,16 +131,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep3Test.cpp.o.provides.buil
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o: ../tests/lab10test/AlgoStep2Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep2Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep2Test.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep2Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep2Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep2Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep2Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o.requires:
 
@@ -155,16 +155,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep2Test.cpp.o.provides.buil
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o: ../tests/lab10test/AlgoStep1Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep1Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep1Test.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep1Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep1Test.cpp > CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/AlgoStep1Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/AlgoStep1Test.cpp -o CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o.requires:
 
@@ -179,16 +179,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/AlgoStep1Test.cpp.o.provides.buil
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o: ../tests/lab10test/ScheduleTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/ScheduleTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/ScheduleTest.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/ScheduleTest.cpp > CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/ScheduleTest.cpp > CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/ScheduleTest.cpp -o CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/ScheduleTest.cpp -o CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o.requires:
 
@@ -203,16 +203,16 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/ScheduleTest.cpp.o.provides.build
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o: tests/lab10test/CMakeFiles/lab10_all_tests.dir/flags.make
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o: ../tests/lab10test/SchedulerTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab10test/SchedulerTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab10test/SchedulerTest.cpp
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab10test/SchedulerTest.cpp > CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab10test/SchedulerTest.cpp > CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.i
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab10test/SchedulerTest.cpp -o CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab10test/SchedulerTest.cpp -o CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.s
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/SchedulerTest.cpp.o.requires:
 
@@ -257,8 +257,8 @@ tests/lab10test/lab10_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest
 tests/lab10test/lab10_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab10test/lab10_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
 tests/lab10test/lab10_all_tests: tests/lab10test/CMakeFiles/lab10_all_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable lab10_all_tests"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab10_all_tests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable lab10_all_tests"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab10_all_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/build: tests/lab10test/lab10_all_tests
@@ -276,10 +276,10 @@ tests/lab10test/CMakeFiles/lab10_all_tests.dir/requires: tests/lab10test/CMakeFi
 .PHONY : tests/lab10test/CMakeFiles/lab10_all_tests.dir/requires
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test && $(CMAKE_COMMAND) -P CMakeFiles/lab10_all_tests.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test && $(CMAKE_COMMAND) -P CMakeFiles/lab10_all_tests.dir/cmake_clean.cmake
 .PHONY : tests/lab10test/CMakeFiles/lab10_all_tests.dir/clean
 
 tests/lab10test/CMakeFiles/lab10_all_tests.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/tests/lab10test /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/tests/lab10test /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab10test/CMakeFiles/lab10_all_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/lab10test/CMakeFiles/lab10_all_tests.dir/depend
 

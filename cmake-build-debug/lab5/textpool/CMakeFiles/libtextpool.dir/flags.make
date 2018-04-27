@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++1z
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/guest/CLionProjects/temp/lab5/textpool/. 
+CXX_INCLUDES = -I/home/guest/CLionProjects/jimp22/lab5/textpool/. 
 

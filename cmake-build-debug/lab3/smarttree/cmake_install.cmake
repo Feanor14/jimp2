@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/lab3/smarttree
+# Install script for directory: /home/guest/CLionProjects/jimp22/lab3/smarttree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -43,10 +43,10 @@ RM = /home/guest/Desktop/clion-2018.1/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guest/CLionProjects/temp
+CMAKE_SOURCE_DIR = /home/guest/CLionProjects/jimp22
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guest/CLionProjects/temp/cmake-build-debug
+CMAKE_BINARY_DIR = /home/guest/CLionProjects/jimp22/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include tests/lab9test/CMakeFiles/lab9_all_tests.dir/depend.make
@@ -59,16 +59,16 @@ include tests/lab9test/CMakeFiles/lab9_all_tests.dir/flags.make
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o: tests/lab9test/CMakeFiles/lab9_all_tests.dir/flags.make
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o: ../tests/lab9test/BuildingRepositoryTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab9test/BuildingRepositoryTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab9test/BuildingRepositoryTest.cpp
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab9test/BuildingRepositoryTest.cpp > CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab9test/BuildingRepositoryTest.cpp > CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.i
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab9test/BuildingRepositoryTest.cpp -o CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab9test/BuildingRepositoryTest.cpp -o CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.s
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o.requires:
 
@@ -83,16 +83,16 @@ tests/lab9test/CMakeFiles/lab9_all_tests.dir/BuildingRepositoryTest.cpp.o.provid
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o: tests/lab9test/CMakeFiles/lab9_all_tests.dir/flags.make
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o: ../tests/lab9test/JsonSerializerTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab9test/JsonSerializerTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab9test/JsonSerializerTest.cpp
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab9test/JsonSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab9test/JsonSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.i
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab9test/JsonSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab9test/JsonSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.s
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o.requires:
 
@@ -107,16 +107,16 @@ tests/lab9test/CMakeFiles/lab9_all_tests.dir/JsonSerializerTest.cpp.o.provides.b
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o: tests/lab9test/CMakeFiles/lab9_all_tests.dir/flags.make
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o: ../tests/lab9test/XmlSerializerTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab9test/XmlSerializerTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab9test/XmlSerializerTest.cpp
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab9test/XmlSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab9test/XmlSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.i
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab9test/XmlSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab9test/XmlSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.s
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o.requires:
 
@@ -131,16 +131,16 @@ tests/lab9test/CMakeFiles/lab9_all_tests.dir/XmlSerializerTest.cpp.o.provides.bu
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o: tests/lab9test/CMakeFiles/lab9_all_tests.dir/flags.make
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o: ../tests/lab9test/BaseSerializerTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o -c /home/guest/CLionProjects/temp/tests/lab9test/BaseSerializerTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o -c /home/guest/CLionProjects/jimp22/tests/lab9test/BaseSerializerTest.cpp
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/temp/tests/lab9test/BaseSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/guest/CLionProjects/jimp22/tests/lab9test/BaseSerializerTest.cpp > CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.i
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/temp/tests/lab9test/BaseSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/guest/CLionProjects/jimp22/tests/lab9test/BaseSerializerTest.cpp -o CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.s
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/BaseSerializerTest.cpp.o.requires:
 
@@ -179,8 +179,8 @@ tests/lab9test/lab9_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a
 tests/lab9test/lab9_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab9test/lab9_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
 tests/lab9test/lab9_all_tests: tests/lab9test/CMakeFiles/lab9_all_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/temp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable lab9_all_tests"
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab9_all_tests.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/guest/CLionProjects/jimp22/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable lab9_all_tests"
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab9_all_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/build: tests/lab9test/lab9_all_tests
@@ -195,10 +195,10 @@ tests/lab9test/CMakeFiles/lab9_all_tests.dir/requires: tests/lab9test/CMakeFiles
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/requires
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/clean:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test && $(CMAKE_COMMAND) -P CMakeFiles/lab9_all_tests.dir/cmake_clean.cmake
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test && $(CMAKE_COMMAND) -P CMakeFiles/lab9_all_tests.dir/cmake_clean.cmake
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/clean
 
 tests/lab9test/CMakeFiles/lab9_all_tests.dir/depend:
-	cd /home/guest/CLionProjects/temp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/temp /home/guest/CLionProjects/temp/tests/lab9test /home/guest/CLionProjects/temp/cmake-build-debug /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test /home/guest/CLionProjects/temp/cmake-build-debug/tests/lab9test/CMakeFiles/lab9_all_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guest/CLionProjects/jimp22/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guest/CLionProjects/jimp22 /home/guest/CLionProjects/jimp22/tests/lab9test /home/guest/CLionProjects/jimp22/cmake-build-debug /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test /home/guest/CLionProjects/jimp22/cmake-build-debug/tests/lab9test/CMakeFiles/lab9_all_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : tests/lab9test/CMakeFiles/lab9_all_tests.dir/depend
 

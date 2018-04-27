@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/lab3/tinyurl
+# Install script for directory: /home/guest/CLionProjects/jimp22/lab3/tinyurl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

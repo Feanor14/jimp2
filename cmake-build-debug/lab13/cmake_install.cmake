@@ -1,4 +1,4 @@
-# Install script for directory: /home/guest/CLionProjects/temp/lab13
+# Install script for directory: /home/guest/CLionProjects/jimp22/lab13
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
