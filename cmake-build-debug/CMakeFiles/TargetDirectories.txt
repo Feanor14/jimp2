@@ -160,6 +160,14 @@
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/CMakeFiles/list_install_components.dir
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/CMakeFiles/rebuild_cache.dir
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/CMakeFiles/edit_cache.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/install/strip.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/install/local.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/install.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/list_install_components.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/rebuild_cache.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/edit_cache.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/scheduler.dir
+/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler/CMakeFiles/libscheduler.dir
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab11/CMakeFiles/install/strip.dir
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab11/CMakeFiles/install/local.dir
 /home/guest/CLionProjects/jimp22/cmake-build-debug/lab11/CMakeFiles/install.dir

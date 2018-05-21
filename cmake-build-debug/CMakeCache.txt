@@ -213,6 +213,12 @@ academia_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/la
 academia_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab6/academia
 
 //Value Computed by CMake
+academiascheduler_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/academiascheduler
+
+//Value Computed by CMake
+academiascheduler_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab10/academiascheduler
+
+//Value Computed by CMake
 ccounter_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/ccounter
 
 //Value Computed by CMake
@@ -385,6 +391,9 @@ lab9_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab9
 libacademia_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libacademiascheduler_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libccounter_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
@@ -407,6 +416,9 @@ libminimaltimedifference_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
 libnetsurl_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+libscheduler_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
 libsmarttree_LIB_DEPENDS:STATIC=
@@ -452,6 +464,12 @@ netsurl_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab
 
 //Value Computed by CMake
 netsurl_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab4/netsurl
+
+//Value Computed by CMake
+scheduler_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab10/scheduler
+
+//Value Computed by CMake
+scheduler_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab10/scheduler
 
 //Value Computed by CMake
 smarttree_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/smarttree
@@ -601,7 +619,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=48
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=49
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

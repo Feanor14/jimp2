@@ -6,6 +6,7 @@ add_subdirectory_if_exists TEXTPOOL EXISTS!
 add_subdirectory_if_exists WORDCOUNTER EXISTS!
 add_subdirectory_if_exists ACADEMIA EXISTS!
 add_subdirectory_if_exists ITERABLE EXISTS!
+add_subdirectory_if_exists SCHEDULER EXISTS!
 -- lab1test::HAVE_DIR_PALINDROME:  
 add_gtest_with_memleak target: lab2_array_2d_step1_tests
 add_gtest_with_memleak src: Array2dStep1Test.cpp;

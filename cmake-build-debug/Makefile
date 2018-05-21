@@ -469,6 +469,32 @@ libiterable/fast:
 .PHONY : libiterable/fast
 
 #=============================================================================
+# Target rules for targets named scheduler
+
+# Build rule for target.
+scheduler: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 scheduler
+.PHONY : scheduler
+
+# fast build rule for target.
+scheduler/fast:
+	$(MAKE) -f lab10/scheduler/CMakeFiles/scheduler.dir/build.make lab10/scheduler/CMakeFiles/scheduler.dir/build
+.PHONY : scheduler/fast
+
+#=============================================================================
+# Target rules for targets named libscheduler
+
+# Build rule for target.
+libscheduler: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libscheduler
+.PHONY : libscheduler
+
+# fast build rule for target.
+libscheduler/fast:
+	$(MAKE) -f lab10/scheduler/CMakeFiles/libscheduler.dir/build.make lab10/scheduler/CMakeFiles/libscheduler.dir/build
+.PHONY : libscheduler/fast
+
+#=============================================================================
 # Target rules for targets named gmock_main
 
 # Build rule for target.
@@ -1804,6 +1830,8 @@ help:
 	@echo "... libacademia"
 	@echo "... iterable"
 	@echo "... libiterable"
+	@echo "... scheduler"
+	@echo "... libscheduler"
 	@echo "... gmock_main"
 	@echo "... gmock"
 	@echo "... gtest_main"
