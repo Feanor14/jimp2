@@ -1,0 +1,11 @@
+//
+// Created by guest on 21.05.18.
+//
+
+#ifndef JIMP_EXERCISES_NOVIABLESOLUTIONFOUND_H
+#define JIMP_EXERCISES_NOVIABLESOLUTIONFOUND_H
+
+namespace academia {
+}
+
+#endif //JIMP_EXERCISES_NOVIABLESOLUTIONFOUND_H
