@@ -37,3 +37,13 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/tree/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/timerecorder/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/academiateacherhash/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/academiasequentialgenerator/cmake_install.cmake")
+  include("/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/treeiterators/cmake_install.cmake")
+
+endif()
+

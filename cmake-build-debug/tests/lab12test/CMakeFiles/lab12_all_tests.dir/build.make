@@ -250,7 +250,11 @@ tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
+tests/lab12test/lab12_all_tests: lab12/timerecorder/liblibtimerecorder.a
+tests/lab12test/lab12_all_tests: lab12/academiateacherhash/liblibteacherhash.a
 tests/lab12test/lab12_all_tests: tests/lib/memleak/libmemleak.a
+tests/lab12test/lab12_all_tests: lab12/treeiterators/liblibtreeiterators.a
+tests/lab12test/lab12_all_tests: lab12/academiasequentialgenerator/liblibsequentialgenerator.a
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest.a
 tests/lab12test/lab12_all_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a

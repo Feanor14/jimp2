@@ -7,6 +7,8 @@
 
 #include <string>
 
+using namespace std;
+
 class Student {
     string id, first_name,last_name,program;
     StudyYear year;

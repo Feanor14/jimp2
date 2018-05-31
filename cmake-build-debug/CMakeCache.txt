@@ -219,6 +219,18 @@ academiascheduler_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build
 academiascheduler_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab10/academiascheduler
 
 //Value Computed by CMake
+academiasequentialgenerator_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/academiasequentialgenerator
+
+//Value Computed by CMake
+academiasequentialgenerator_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/academiasequentialgenerator
+
+//Value Computed by CMake
+academiateacherhash_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/academiateacherhash
+
+//Value Computed by CMake
+academiateacherhash_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/academiateacherhash
+
+//Value Computed by CMake
 ccounter_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/ccounter
 
 //Value Computed by CMake
@@ -394,6 +406,9 @@ libacademia_LIB_DEPENDS:STATIC=
 libacademiascheduler_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libacademiateacherhash_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libccounter_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
@@ -421,13 +436,28 @@ libnetsurl_LIB_DEPENDS:STATIC=
 libscheduler_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libsequentialgenerator_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libsmarttree_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+libteacherhash_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
 libtextpool_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
+libtimerecorder_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 libtinyurl_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+libtree_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+libtreeiterators_LIB_DEPENDS:STATIC=
 
 //Dependencies for target
 libwordcounter_LIB_DEPENDS:STATIC=
@@ -472,6 +502,12 @@ scheduler_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/l
 scheduler_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab10/scheduler
 
 //Value Computed by CMake
+sequentialgenerator_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/academiasequentialgenerator
+
+//Value Computed by CMake
+sequentialgenerator_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/academiasequentialgenerator
+
+//Value Computed by CMake
 smarttree_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/smarttree
 
 //Value Computed by CMake
@@ -493,10 +529,28 @@ textpool_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/la
 textpool_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab5/textpool
 
 //Value Computed by CMake
+timerecorder_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/timerecorder
+
+//Value Computed by CMake
+timerecorder_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/timerecorder
+
+//Value Computed by CMake
 tinyurl_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab3/tinyurl
 
 //Value Computed by CMake
 tinyurl_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab3/tinyurl
+
+//Value Computed by CMake
+tree_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/tree
+
+//Value Computed by CMake
+tree_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/tree
+
+//Value Computed by CMake
+treeiterators_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab12/treeiterators
+
+//Value Computed by CMake
+treeiterators_SOURCE_DIR:STATIC=/home/guest/CLionProjects/jimp22/lab12/treeiterators
 
 //Value Computed by CMake
 wordcounter_BINARY_DIR:STATIC=/home/guest/CLionProjects/jimp22/cmake-build-debug/lab6/wordcounter
@@ -619,7 +673,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=49
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=54
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

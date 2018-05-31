@@ -495,6 +495,136 @@ libscheduler/fast:
 .PHONY : libscheduler/fast
 
 #=============================================================================
+# Target rules for targets named tree
+
+# Build rule for target.
+tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tree
+.PHONY : tree
+
+# fast build rule for target.
+tree/fast:
+	$(MAKE) -f lab12/tree/CMakeFiles/tree.dir/build.make lab12/tree/CMakeFiles/tree.dir/build
+.PHONY : tree/fast
+
+#=============================================================================
+# Target rules for targets named libtree
+
+# Build rule for target.
+libtree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libtree
+.PHONY : libtree
+
+# fast build rule for target.
+libtree/fast:
+	$(MAKE) -f lab12/tree/CMakeFiles/libtree.dir/build.make lab12/tree/CMakeFiles/libtree.dir/build
+.PHONY : libtree/fast
+
+#=============================================================================
+# Target rules for targets named timerecorder
+
+# Build rule for target.
+timerecorder: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 timerecorder
+.PHONY : timerecorder
+
+# fast build rule for target.
+timerecorder/fast:
+	$(MAKE) -f lab12/timerecorder/CMakeFiles/timerecorder.dir/build.make lab12/timerecorder/CMakeFiles/timerecorder.dir/build
+.PHONY : timerecorder/fast
+
+#=============================================================================
+# Target rules for targets named libtimerecorder
+
+# Build rule for target.
+libtimerecorder: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libtimerecorder
+.PHONY : libtimerecorder
+
+# fast build rule for target.
+libtimerecorder/fast:
+	$(MAKE) -f lab12/timerecorder/CMakeFiles/libtimerecorder.dir/build.make lab12/timerecorder/CMakeFiles/libtimerecorder.dir/build
+.PHONY : libtimerecorder/fast
+
+#=============================================================================
+# Target rules for targets named teacherhash
+
+# Build rule for target.
+teacherhash: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 teacherhash
+.PHONY : teacherhash
+
+# fast build rule for target.
+teacherhash/fast:
+	$(MAKE) -f lab12/academiateacherhash/CMakeFiles/teacherhash.dir/build.make lab12/academiateacherhash/CMakeFiles/teacherhash.dir/build
+.PHONY : teacherhash/fast
+
+#=============================================================================
+# Target rules for targets named libteacherhash
+
+# Build rule for target.
+libteacherhash: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libteacherhash
+.PHONY : libteacherhash
+
+# fast build rule for target.
+libteacherhash/fast:
+	$(MAKE) -f lab12/academiateacherhash/CMakeFiles/libteacherhash.dir/build.make lab12/academiateacherhash/CMakeFiles/libteacherhash.dir/build
+.PHONY : libteacherhash/fast
+
+#=============================================================================
+# Target rules for targets named sequentialgenerator
+
+# Build rule for target.
+sequentialgenerator: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sequentialgenerator
+.PHONY : sequentialgenerator
+
+# fast build rule for target.
+sequentialgenerator/fast:
+	$(MAKE) -f lab12/academiasequentialgenerator/CMakeFiles/sequentialgenerator.dir/build.make lab12/academiasequentialgenerator/CMakeFiles/sequentialgenerator.dir/build
+.PHONY : sequentialgenerator/fast
+
+#=============================================================================
+# Target rules for targets named libsequentialgenerator
+
+# Build rule for target.
+libsequentialgenerator: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libsequentialgenerator
+.PHONY : libsequentialgenerator
+
+# fast build rule for target.
+libsequentialgenerator/fast:
+	$(MAKE) -f lab12/academiasequentialgenerator/CMakeFiles/libsequentialgenerator.dir/build.make lab12/academiasequentialgenerator/CMakeFiles/libsequentialgenerator.dir/build
+.PHONY : libsequentialgenerator/fast
+
+#=============================================================================
+# Target rules for targets named treeiterators
+
+# Build rule for target.
+treeiterators: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 treeiterators
+.PHONY : treeiterators
+
+# fast build rule for target.
+treeiterators/fast:
+	$(MAKE) -f lab12/treeiterators/CMakeFiles/treeiterators.dir/build.make lab12/treeiterators/CMakeFiles/treeiterators.dir/build
+.PHONY : treeiterators/fast
+
+#=============================================================================
+# Target rules for targets named libtreeiterators
+
+# Build rule for target.
+libtreeiterators: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 libtreeiterators
+.PHONY : libtreeiterators
+
+# fast build rule for target.
+libtreeiterators/fast:
+	$(MAKE) -f lab12/treeiterators/CMakeFiles/libtreeiterators.dir/build.make lab12/treeiterators/CMakeFiles/libtreeiterators.dir/build
+.PHONY : libtreeiterators/fast
+
+#=============================================================================
 # Target rules for targets named gmock_main
 
 # Build rule for target.
@@ -1832,6 +1962,16 @@ help:
 	@echo "... libiterable"
 	@echo "... scheduler"
 	@echo "... libscheduler"
+	@echo "... tree"
+	@echo "... libtree"
+	@echo "... timerecorder"
+	@echo "... libtimerecorder"
+	@echo "... teacherhash"
+	@echo "... libteacherhash"
+	@echo "... sequentialgenerator"
+	@echo "... libsequentialgenerator"
+	@echo "... treeiterators"
+	@echo "... libtreeiterators"
 	@echo "... gmock_main"
 	@echo "... gmock"
 	@echo "... gtest_main"

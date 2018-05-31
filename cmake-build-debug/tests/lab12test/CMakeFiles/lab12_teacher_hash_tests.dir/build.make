@@ -94,6 +94,7 @@ tests/lab12test/lab12_teacher_hash_tests: tests/lib/gtest-1.8.0/googlemock/gtest
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/gtest-1.8.0/googlemock/libgmock.a
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/gtest-1.8.0/googlemock/libgmock_main.a
+tests/lab12test/lab12_teacher_hash_tests: lab12/academiateacherhash/liblibteacherhash.a
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/stringutility/libstringutility.a
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/memleak/libmemleak.a
 tests/lab12test/lab12_teacher_hash_tests: tests/lib/gtest-1.8.0/googlemock/gtest/libgtest_main.a
